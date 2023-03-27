@@ -1,0 +1,1589 @@
+App is listening on port 3000.
+stdout: -------------------INFORMATION-------------------
+New Plugin is: order-bookingv414.zip
+Old Plugin is: order-booking
+Log File: /home/bash/bash/src/log.txt
+Input File: input.csv
+-------------------------------------------------
+ShopName,Host,Username,Password,Path
+"Test Shop",home651354579.1and1-data.host,u86737244,**********,/kunden/homepages/3/d651354579/htdocs/entw-shop
+Record is : ShopName
+Record is : "Test Shop"
+  -------------------UPDATING-------------------
+  Shop name: "Test Shop"
+  Host: home651354579.1and1-data.host
+  Username: u86737244
+  Password: ********
+  Path: /kunden/homepages/3/d651354579/htdocs/entw-shop
+      | ***** Deactivating plugin "order-booking" ...
+      | ***** Plugin "order-booking" has been deactivated.
+      | ***** Deleting plugin "order-booking" ...
+      | ***** Plugin "order-booking" has been removed.
+      | ***** Uploading file "order-bookingv414.zip.zip" ...
+      | ***** File "order-bookingv414.zip" has been uploaded.
+      | ***** File "order-bookingv414.zip" has been unziped.
+      | ***** Activating plugin "order-booking" ...
+      | ***** Plugin "order-booking" has been activated.
+      | ***** File "order-bookingv414.zip" has been deleted.
+      | ***** [SUCCESS] Shop ""Test Shop"" has been updated.
+-------------------------------------------------
+---------------DONE------------------
+UPDATED 1/1 shops (0 shops FAILED)
+Duration time: 5 seconds.
+
+stderr: Warning: Plugin 'order-booking' is already active.
+
+[0mPOST /upload-plugin [32m200[0m 4332.221 ms - 2455[0m
+stdout: -------------------INFORMATION-------------------
+New Plugin is: order-bookingv414.zip
+Old Plugin is: order-booking
+Log File: /home/bash/bash/src/log.txt
+Input File: input.csv
+-------------------------------------------------
+ShopName,Host,Username,Password,Path
+"Test Shop",home651354579.1and1-data.host,u86737244,**********,/kunden/homepages/3/d651354579/htdocs/entw-shop
+Record is : ShopName
+Record is : "Test Shop"
+  -------------------UPDATING-------------------
+  Shop name: "Test Shop"
+  Host: home651354579.1and1-data.host
+  Username: u86737244
+  Password: ********
+  Path: /kunden/homepages/3/d651354579/htdocs/entw-shop
+      | ***** Deactivating plugin "order-booking" ...
+      | ***** Plugin "order-booking" has been deactivated.
+      | ***** Deleting plugin "order-booking" ...
+      | ***** Plugin "order-booking" has been removed.
+      | ***** Uploading file "order-bookingv414.zip.zip" ...
+      | ***** File "order-bookingv414.zip" has been uploaded.
+      | ***** File "order-bookingv414.zip" has been unziped.
+      | ***** Activating plugin "order-booking" ...
+      | ***** Plugin "order-booking" has been activated.
+      | ***** File "order-bookingv414.zip" has been deleted.
+      | ***** [SUCCESS] Shop ""Test Shop"" has been updated.
+-------------------------------------------------
+---------------DONE------------------
+UPDATED 1/1 shops (0 shops FAILED)
+Duration time: 4 seconds.
+
+stderr: Warning: Plugin 'order-booking' is already active.
+
+[0mPOST /upload-plugin [32m200[0m 4385.054 ms - 2455[0m
+[0mGET / [32m200[0m 1.618 ms - 12[0m
+[0mGET / [32m200[0m 0.656 ms - 12[0m
+[0mGET / [32m200[0m 0.708 ms - 12[0m
+[0mGET /favicon.ico [33m404[0m 2.544 ms - 150[0m
+[0mGET / [32m200[0m 0.266 ms - 12[0m
+[0mGET / [32m200[0m 0.608 ms - 12[0m
+[0mGET / [32m200[0m 0.574 ms - 12[0m
+[0mGET /favicon.ico [33m404[0m 0.450 ms - 150[0m
+[0mGET /robots.txt [33m404[0m 0.333 ms - 149[0m
+[0mGET /sitemap.xml [33m404[0m 0.211 ms - 150[0m
+[0mGET / [32m200[0m 0.661 ms - 12[0m
+[0mGET / [32m200[0m 0.419 ms - 12[0m
+[0mGET / [32m200[0m 0.466 ms - 12[0m
+[0mGET / [32m200[0m 0.647 ms - 12[0m
+[0mGET / [32m200[0m 0.620 ms - 12[0m
+[0mGET / [32m200[0m 0.593 ms - 12[0m
+[0mGET / [32m200[0m 0.666 ms - 12[0m
+[0mGET / [32m200[0m 0.642 ms - 12[0m
+[0mGET / [32m200[0m 0.987 ms - 12[0m
+[0mGET / [32m200[0m 0.654 ms - 12[0m
+[0mGET / [32m200[0m 0.684 ms - 12[0m
+[0mGET / [32m200[0m 0.713 ms - 12[0m
+[0mGET / [32m200[0m 0.665 ms - 12[0m
+[0mGET / [32m200[0m 1.135 ms - 12[0m
+[0mGET / [32m200[0m 0.657 ms - 12[0m
+[0mGET /favicon.ico [33m404[0m 0.609 ms - 150[0m
+[0mGET /index.html [33m404[0m 0.313 ms - 149[0m
+[0mGET / [32m200[0m 0.637 ms - 12[0m
+[0mGET / [32m200[0m 0.709 ms - 12[0m
+[0mGET / [32m200[0m 0.515 ms - 12[0m
+[0mGET / [32m200[0m 0.700 ms - 12[0m
+[0mGET / [32m200[0m 0.571 ms - 12[0m
+[0mGET / [32m200[0m 0.693 ms - 12[0m
+[0mGET / [32m200[0m 0.809 ms - 12[0m
+[0mGET / [32m200[0m 0.691 ms - 12[0m
+[0mGET / [32m200[0m 0.798 ms - 12[0m
+[0mGET / [32m200[0m 0.640 ms - 12[0m
+[0mGET / [32m200[0m 0.660 ms - 12[0m
+[0mGET / [32m200[0m 0.194 ms - 12[0m
+[0mHEAD / [32m200[0m 0.702 ms - 12[0m
+[0mGET /system_api.php [33m404[0m 0.375 ms - 153[0m
+[0mGET /c/version.js [33m404[0m 0.289 ms - 151[0m
+[0mGET /streaming/clients_live.php [33m404[0m 0.198 ms - 165[0m
+[0mGET /stalker_portal/c/version.js [33m404[0m 0.185 ms - 166[0m
+[0mGET /stream/live.php [33m404[0m 0.255 ms - 154[0m
+[0mGET /flu/403.html [33m404[0m 0.188 ms - 151[0m
+[0mGET / [32m200[0m 0.449 ms - 12[0m
+[0mGET / [32m200[0m 0.536 ms - 12[0m
+[0mGET / [32m200[0m 0.835 ms - 12[0m
+[0mGET / [32m200[0m 0.588 ms - 12[0m
+[0mGET / [32m200[0m 0.697 ms - 12[0m
+[0mGET / [32m200[0m 0.662 ms - 12[0m
+[0mGET /favicon.ico [33m404[0m 0.421 ms - 150[0m
+[0mGET / [32m200[0m 0.640 ms - 12[0m
+[0mGET / [32m200[0m 0.690 ms - 12[0m
+[0mGET /v1/agent/self [33m404[0m 0.572 ms - 152[0m
+[0mGET / [32m200[0m 0.624 ms - 12[0m
+[0mGET /Portal/Portal.mwsl [33m404[0m 0.395 ms - 157[0m
+[0mGET /?=PHPE9568F36-D428-11d2-A769-00AA001ACF42 [32m200[0m 0.165 ms - 12[0m
+[0mGET / [32m200[0m 0.111 ms - 12[0m
+[0mGET /CSS/Miniweb.css [33m404[0m 0.135 ms - 154[0m
+[0mGET / [32m200[0m 0.107 ms - 12[0m
+[0mGET /.git/HEAD [33m404[0m 0.126 ms - 148[0m
+[0mGET /docs/cplugError.html/ [33m404[0m 0.200 ms - 160[0m
+[0mGET /favicon.ico [33m404[0m 0.131 ms - 150[0m
+[0mGET /?=PHPB8B5F2A0-3C92-11d3-A3A9-4C7B08C10000 [32m200[0m 0.146 ms - 12[0m
+[0mGET /menu.pl [33m404[0m 0.220 ms - 146[0m
+[0mGET /OZrA [33m404[0m 0.128 ms - 143[0m
+[0mGET /default.pl [33m404[0m 0.325 ms - 149[0m
+[0mGET /Portal0000.htm [33m404[0m 0.202 ms - 153[0m
+[0mGET / [32m200[0m 0.162 ms - 12[0m
+[0mPOST /sdk [33m404[0m 0.220 ms - 143[0m
+[0mGET /nmaplowercheck1661556963 [33m404[0m 0.255 ms - 163[0m
+[0mGET /start.jsp [33m404[0m 0.208 ms - 148[0m
+[0mGET /__Additional [33m404[0m 0.135 ms - 151[0m
+[0mHEAD / [32m200[0m 0.319 ms - 12[0m
+[0mGET /HNAP1 [33m404[0m 0.332 ms - 144[0m
+[0mGET /pools/default/buckets [33m404[0m 0.359 ms - 160[0m
+[0mGET /base.php [33m404[0m 0.225 ms - 147[0m
+[0mGET /pools [33m404[0m 0.216 ms - 144[0m
+[0mGET /main.jsa [33m404[0m 0.202 ms - 147[0m
+[0mGET / [32m200[0m 0.169 ms - 12[0m
+[0mGET /menu.jsp [33m404[0m 0.214 ms - 147[0m
+[0mGET /menu.cfm [33m404[0m 0.227 ms - 147[0m
+[0mGET /index.shtml [33m404[0m 1.253 ms - 150[0m
+[0mGET /readme.txt [33m404[0m 0.358 ms - 149[0m
+[0mGET /index.cfm [33m404[0m 0.212 ms - 148[0m
+[0mGET /menu.jsa [33m404[0m 0.214 ms - 147[0m
+[0mGET /default.html [33m404[0m 1.206 ms - 151[0m
+[0mGET /main.cfm [33m404[0m 0.208 ms - 147[0m
+[0mGET /localstart.aspx [33m404[0m 0.382 ms - 154[0m
+[0mGET /inicio.html [33m404[0m 0.201 ms - 150[0m
+[0mGET /admin.shtml [33m404[0m 0.206 ms - 150[0m
+[0mGET /index.cgi [33m404[0m 0.207 ms - 148[0m
+[0mGET /localstart.cfm [33m404[0m 0.207 ms - 153[0m
+[0mGET /admin.pl [33m404[0m 0.231 ms - 147[0m
+[0mGET /localstart.shtml [33m404[0m 0.218 ms - 155[0m
+[0mGET /admin.php [33m404[0m 0.212 ms - 148[0m
+[0mGET /indice.asp [33m404[0m 0.203 ms - 149[0m
+[0mGET /home.php [33m404[0m 0.198 ms - 147[0m
+[0mGET /admin.jsp [33m404[0m 0.213 ms - 148[0m
+[0mGET /admin.jsa [33m404[0m 0.208 ms - 148[0m
+[0mGET /admin.jhtml [33m404[0m 0.232 ms - 150[0m
+[0mGET /menu.cgi [33m404[0m 0.212 ms - 147[0m
+[0mGET /main.php [33m404[0m 0.250 ms - 147[0m
+[0mGET /default.aspx [33m404[0m 0.207 ms - 151[0m
+[0mGET /index.jsa [33m404[0m 0.214 ms - 148[0m
+[0mGET /admin.aspx [33m404[0m 0.210 ms - 149[0m
+[0mGET /base.inc [33m404[0m 0.213 ms - 147[0m
+[0mGET / [32m200[0m 0.195 ms - 12[0m
+[0mGET /menu.asp [33m404[0m 0.146 ms - 147[0m
+[0mGET /index.html [33m404[0m 0.201 ms - 149[0m
+[0mGET /home.cfm [33m404[0m 0.206 ms - 147[0m
+[0mGET /admin.cgi [33m404[0m 0.204 ms - 148[0m
+[0mGET /inicio.shtml [33m404[0m 0.195 ms - 151[0m
+[0mGET /admin.cfm [33m404[0m 0.194 ms - 148[0m
+[0mGET /default.jhtml [33m404[0m 0.205 ms - 152[0m
+[0mGET /start.cgi [33m404[0m 0.214 ms - 148[0m
+[0mGET /admin.asp [33m404[0m 0.207 ms - 148[0m
+[0mGET /main.jhtml [33m404[0m 0.207 ms - 149[0m
+[0mGET /home.asp [33m404[0m 0.211 ms - 147[0m
+[0mGET /localstart.html [33m404[0m 0.206 ms - 154[0m
+[0mGET /default.jsp [33m404[0m 0.236 ms - 150[0m
+[0mGET /localstart.asp [33m404[0m 0.207 ms - 153[0m
+[0mGET /base.pl [33m404[0m 0.222 ms - 146[0m
+[0mGET /base.jsp [33m404[0m 0.216 ms - 147[0m
+[0mGET /default.cgi [33m404[0m 0.193 ms - 150[0m
+[0mGET /default.cfm [33m404[0m 0.200 ms - 150[0m
+[0mGET /base.cfm [33m404[0m 0.214 ms - 147[0m
+[0mGET /index.jsp [33m404[0m 0.202 ms - 148[0m
+[0mGET /localstart.jhtml [33m404[0m 0.217 ms - 155[0m
+[0mGET /main.jsp [33m404[0m 0.236 ms - 147[0m
+[0mGET /admin.html [33m404[0m 0.210 ms - 149[0m
+[0mGET /inicio.asp [33m404[0m 0.215 ms - 149[0m
+[0mGET /base.jhtml [33m404[0m 0.204 ms - 149[0m
+[0mGET /indice.jhtml [33m404[0m 0.588 ms - 151[0m
+[0mGET /base.jsa [33m404[0m 0.216 ms - 147[0m
+[0mGET /base.aspx [33m404[0m 0.211 ms - 148[0m
+[0mGET /base.cgi [33m404[0m 0.204 ms - 147[0m
+[0mGET /home.jsp [33m404[0m 0.200 ms - 147[0m
+[0mGET /base.html [33m404[0m 0.205 ms - 148[0m
+[0mGET /main.cgi [33m404[0m 0.210 ms - 147[0m
+[0mGET /base.asp [33m404[0m 0.217 ms - 147[0m
+[0mGET /default.jsa [33m404[0m 0.203 ms - 150[0m
+[0mGET /inicio.php [33m404[0m 0.206 ms - 149[0m
+[0mGET /indice.php [33m404[0m 0.250 ms - 149[0m
+[0mGET /indice.pl [33m404[0m 0.246 ms - 148[0m
+[0mGET /indice.shtml [33m404[0m 0.214 ms - 151[0m
+[0mGET /home.cgi [33m404[0m 0.206 ms - 147[0m
+[0mGET /robots.txt [33m404[0m 0.210 ms - 149[0m
+[0mGET /default.php [33m404[0m 0.220 ms - 150[0m
+[0mGET /start.html [33m404[0m 0.306 ms - 149[0m
+[0mGET /indice.jsa [33m404[0m 0.227 ms - 149[0m
+[0mGET /indice.html [33m404[0m 0.197 ms - 150[0m
+[0mGET /indice.cgi [33m404[0m 0.232 ms - 149[0m
+[0mGET /inicio.aspx [33m404[0m 0.210 ms - 150[0m
+[0mGET /inicio.cfm [33m404[0m 0.205 ms - 149[0m
+[0mGET /indice.aspx [33m404[0m 0.211 ms - 150[0m
+[0mGET /inicio.pl [33m404[0m 0.213 ms - 148[0m
+[0mGET /start.cfm [33m404[0m 0.212 ms - 148[0m
+[0mGET /inicio.jsp [33m404[0m 0.193 ms - 149[0m
+[0mGET /inicio.jsa [33m404[0m 0.218 ms - 149[0m
+[0mGET /menu.html [33m404[0m 0.211 ms - 148[0m
+[0mGET /inicio.cgi [33m404[0m 0.220 ms - 149[0m
+[0mGET /home.jhtml [33m404[0m 0.215 ms - 149[0m
+[0mGET /main.shtml [33m404[0m 0.207 ms - 149[0m
+[0mGET /indice.cfm [33m404[0m 0.210 ms - 149[0m
+[0mGET /home.aspx [33m404[0m 0.229 ms - 148[0m
+[0mGET /localstart.pl [33m404[0m 0.214 ms - 152[0m
+[0mGET /inicio.jhtml [33m404[0m 0.210 ms - 151[0m
+[0mGET /main.pl [33m404[0m 0.199 ms - 146[0m
+[0mGET /localstart.jsa [33m404[0m 0.206 ms - 153[0m
+[0mGET /menu.jhtml [33m404[0m 0.241 ms - 149[0m
+[0mGET /localstart.cgi [33m404[0m 0.209 ms - 153[0m
+[0mGET /index.pl [33m404[0m 0.210 ms - 147[0m
+[0mGET /home.html [33m404[0m 0.200 ms - 148[0m
+[0mGET /start.aspx [33m404[0m 0.196 ms - 149[0m
+[0mGET /start.shtml [33m404[0m 0.189 ms - 150[0m
+[0mGET /start.pl [33m404[0m 0.215 ms - 147[0m
+[0mGET /start.php [33m404[0m 0.226 ms - 148[0m
+[0mGET /home.shtml [33m404[0m 0.204 ms - 149[0m
+[0mGET /main.html [33m404[0m 0.189 ms - 148[0m
+[0mGET /home.pl [33m404[0m 0.201 ms - 146[0m
+[0mGET /start.jsa [33m404[0m 0.203 ms - 148[0m
+[0mGET /start.jhtml [33m404[0m 0.224 ms - 150[0m
+[0mGET /home.jsa [33m404[0m 0.195 ms - 147[0m
+[0mGET /index.php [33m404[0m 0.196 ms - 148[0m
+[0mGET /index.asp [33m404[0m 0.199 ms - 148[0m
+[0mGET /index.aspx [33m404[0m 0.200 ms - 149[0m
+[0mGET /menu.shtml [33m404[0m 0.198 ms - 149[0m
+[0mGET /localstart.php [33m404[0m 0.204 ms - 153[0m
+[0mGET /start.asp [33m404[0m 0.186 ms - 148[0m
+[0mGET /default.shtml [33m404[0m 0.241 ms - 152[0m
+[0mGET /localstart.jsp [33m404[0m 0.204 ms - 153[0m
+[0mGET /default.asp [33m404[0m 0.185 ms - 150[0m
+[0mGET /main.asp [33m404[0m 0.195 ms - 147[0m
+[0mGET /index.jhtml [33m404[0m 0.191 ms - 150[0m
+[0mGET /menu.php [33m404[0m 0.189 ms - 147[0m
+[0mGET /indice.jsp [33m404[0m 0.188 ms - 149[0m
+[0mGET /main.aspx [33m404[0m 0.195 ms - 148[0m
+[0mGET /base.shtml [33m404[0m 0.184 ms - 149[0m
+[0mGET /menu.aspx [33m404[0m 0.189 ms - 148[0m
+[0mGET / [32m200[0m 0.220 ms - 12[0m
+[0mGET / [32m200[0m 0.657 ms - 12[0m
+[0mGET /favicon.ico [33m404[0m 0.440 ms - 150[0m
+[0mGET / [32m200[0m 0.740 ms - 12[0m
+[0mGET / [32m200[0m 0.569 ms - 12[0m
+[0mGET / [32m200[0m 0.538 ms - 12[0m
+[0mGET / [32m200[0m 0.615 ms - 12[0m
+[0mGET / [32m200[0m 0.638 ms - 12[0m
+[0mGET /favicon.ico [33m404[0m 0.397 ms - 150[0m
+[0mGET / [32m200[0m 0.618 ms - 12[0m
+[0mGET / [32m200[0m 0.732 ms - 12[0m
+[0mGET / [32m200[0m 0.362 ms - 12[0m
+[0mGET /favicon.ico [33m404[0m 0.406 ms - 150[0m
+[0mGET / [32m200[0m 0.551 ms - 12[0m
+[0mGET / [32m200[0m 0.592 ms - 12[0m
+[0mGET / [32m200[0m 0.658 ms - 12[0m
+[0mGET / [32m200[0m 0.727 ms - 12[0m
+[0mGET /favicon.ico [33m404[0m 0.509 ms - 150[0m
+[0mGET / [32m200[0m 0.778 ms - 12[0m
+[0mGET / [32m200[0m 0.637 ms - 12[0m
+[0mGET / [32m200[0m 0.647 ms - 12[0m
+[0mGET / [32m200[0m 0.668 ms - 12[0m
+[0mGET / [32m200[0m 0.576 ms - 12[0m
+[0mGET / [32m200[0m 0.665 ms - 12[0m
+[0mGET / [32m200[0m 0.666 ms - 12[0m
+[0mGET / [32m200[0m 0.953 ms - 12[0m
+[0mGET / [32m200[0m 0.502 ms - 12[0m
+[0mGET /favicon.ico [33m404[0m 0.449 ms - 150[0m
+[0mGET / [32m200[0m 0.363 ms - 12[0m
+[0mGET /favicon.ico [33m404[0m 0.292 ms - 150[0m
+[0mGET / [32m200[0m 0.601 ms - 12[0m
+[0mGET / [32m200[0m 0.584 ms - 12[0m
+[0mGET /favicon.ico [33m404[0m 0.513 ms - 150[0m
+[0mGET /robots.txt [33m404[0m 0.305 ms - 149[0m
+[0mGET /sitemap.xml [33m404[0m 0.323 ms - 150[0m
+[0mGET / [32m200[0m 0.580 ms - 12[0m
+[0mGET / [32m200[0m 0.127 ms - 12[0m
+[0mGET / [32m200[0m 0.618 ms - 12[0m
+[0mGET / [32m200[0m 0.251 ms - 12[0m
+[0mGET /favicon.ico [33m404[0m 0.400 ms - 150[0m
+[0mGET / [32m200[0m 0.622 ms - 12[0m
+[0mHEAD / [32m200[0m 0.729 ms - 12[0m
+[0mGET /system_api.php [33m404[0m 0.360 ms - 153[0m
+[0mGET /c/version.js [33m404[0m 0.215 ms - 151[0m
+[0mGET /streaming/clients_live.php [33m404[0m 0.184 ms - 165[0m
+[0mGET /stalker_portal/c/version.js [33m404[0m 0.184 ms - 166[0m
+[0mGET /stream/live.php [33m404[0m 0.205 ms - 154[0m
+[0mGET /flu/403.html [33m404[0m 0.179 ms - 151[0m
+[0mGET / [32m200[0m 0.205 ms - 12[0m
+[0mGET / [32m200[0m 0.556 ms - 12[0m
+[0mGET / [32m200[0m 0.488 ms - 12[0m
+[0mGET / [32m200[0m 0.696 ms - 12[0m
+[0mGET / [32m200[0m 0.584 ms - 12[0m
+[0mGET / [32m200[0m 0.667 ms - 12[0m
+[0mGET / [32m200[0m 0.631 ms - 12[0m
+[0mGET / [32m200[0m 0.633 ms - 12[0m
+[0mGET /favicon.ico [33m404[0m 0.402 ms - 150[0m
+[0mGET / [32m200[0m 0.672 ms - 12[0m
+[0mGET / [32m200[0m 0.611 ms - 12[0m
+[0mGET / [32m200[0m 0.656 ms - 12[0m
+[0mGET / [32m200[0m 0.756 ms - 12[0m
+[0mGET / [32m200[0m 0.555 ms - 12[0m
+[0mGET / [32m200[0m 0.621 ms - 12[0m
+[0mGET /favicon.ico [33m404[0m 0.371 ms - 150[0m
+[0mGET / [32m200[0m 0.680 ms - 12[0m
+[0mGET / [32m200[0m 0.511 ms - 12[0m
+[0mGET / [32m200[0m 0.723 ms - 12[0m
+[0mGET / [32m200[0m 0.911 ms - 12[0m
+[0mGET / [32m200[0m 0.672 ms - 12[0m
+[0mGET / [32m200[0m 0.588 ms - 12[0m
+[0mGET / [32m200[0m 0.689 ms - 12[0m
+[0mGET / [32m200[0m 0.659 ms - 12[0m
+[0mGET /favicon.ico [33m404[0m 0.419 ms - 150[0m
+[0mGET / [32m200[0m 0.527 ms - 12[0m
+[0mGET / [32m200[0m 0.650 ms - 12[0m
+[0mGET /favicon.ico [33m404[0m 0.472 ms - 150[0m
+[0mGET /robots.txt [33m404[0m 0.283 ms - 149[0m
+[0mGET /sitemap.xml [33m404[0m 0.273 ms - 150[0m
+[0mGET / [32m200[0m 0.586 ms - 12[0m
+[0mGET / [32m200[0m 0.630 ms - 12[0m
+[0mHEAD / [32m200[0m 0.764 ms - 12[0m
+[0mGET /system_api.php [33m404[0m 0.405 ms - 153[0m
+[0mGET /c/version.js [33m404[0m 0.259 ms - 151[0m
+[0mGET /streaming/clients_live.php [33m404[0m 0.177 ms - 165[0m
+[0mGET /stalker_portal/c/version.js [33m404[0m 0.187 ms - 166[0m
+[0mGET /stream/live.php [33m404[0m 0.191 ms - 154[0m
+[0mGET /flu/403.html [33m404[0m 0.175 ms - 151[0m
+[0mGET / [32m200[0m 0.272 ms - 12[0m
+[0mGET / [32m200[0m 0.626 ms - 12[0m
+[0mGET / [32m200[0m 0.445 ms - 12[0m
+[0mGET /favicon.ico [33m404[0m 0.470 ms - 150[0m
+[0mGET / [32m200[0m 0.659 ms - 12[0m
+[0mGET / [32m200[0m 0.593 ms - 12[0m
+[0mGET / [32m200[0m 0.867 ms - 12[0m
+[0mGET /favicon.ico [33m404[0m 0.415 ms - 150[0m
+[0mGET / [32m200[0m 0.894 ms - 12[0m
+[0mGET / [32m200[0m 0.698 ms - 12[0m
+[0mGET / [32m200[0m 0.675 ms - 12[0m
+[0mGET /favicon.ico [33m404[0m 0.372 ms - 150[0m
+[0mGET / [32m200[0m 0.638 ms - 12[0m
+[0mGET / [32m200[0m 0.606 ms - 12[0m
+[0mGET / [32m200[0m 0.680 ms - 12[0m
+[0mGET / [32m200[0m 0.732 ms - 12[0m
+[0mGET / [32m200[0m 0.727 ms - 12[0m
+[0mGET / [32m200[0m 0.698 ms - 12[0m
+[0mGET / [32m200[0m 0.776 ms - 12[0m
+[0mGET /favicon.ico [33m404[0m 0.542 ms - 150[0m
+[0mGET /favicon.ico [33m404[0m 0.301 ms - 150[0m
+[0mGET / [32m200[0m 0.761 ms - 12[0m
+[0mGET /favicon.ico [33m404[0m 0.418 ms - 150[0m
+[0mGET / [32m200[0m 0.730 ms - 12[0m
+[0mGET / [32m200[0m 0.544 ms - 12[0m
+[0mGET / [32m200[0m 0.392 ms - 12[0m
+[0mGET / [32m200[0m 0.520 ms - 12[0m
+[0mGET / [32m200[0m 0.306 ms - 12[0m
+[0mGET / [32m200[0m 1.039 ms - 12[0m
+[0mGET / [32m200[0m 1.167 ms - 12[0m
+[0mGET /favicon.ico [33m404[0m 0.398 ms - 150[0m
+[0mGET /robots.txt [33m404[0m 0.722 ms - 149[0m
+[0mGET /sitemap.xml [33m404[0m 0.228 ms - 150[0m
+[0mGET / [32m200[0m 0.708 ms - 12[0m
+[0mHEAD / [32m200[0m 0.509 ms - 12[0m
+[0mGET /system_api.php [33m404[0m 0.305 ms - 153[0m
+[0mGET /c/version.js [33m404[0m 0.261 ms - 151[0m
+[0mGET /streaming/clients_live.php [33m404[0m 0.202 ms - 165[0m
+[0mGET /stalker_portal/c/version.js [33m404[0m 0.259 ms - 166[0m
+[0mGET /stream/live.php [33m404[0m 0.194 ms - 154[0m
+[0mGET /flu/403.html [33m404[0m 0.197 ms - 151[0m
+[0mGET / [32m200[0m 0.209 ms - 12[0m
+[0mGET / [32m200[0m 0.624 ms - 12[0m
+[0mGET / [32m200[0m 0.631 ms - 12[0m
+[0mGET /favicon.ico [33m404[0m 0.833 ms - 150[0m
+[0mGET / [32m200[0m 0.530 ms - 12[0m
+[0mGET / [32m200[0m 0.590 ms - 12[0m
+[0mGET /favicon.ico [33m404[0m 0.447 ms - 150[0m
+[0mGET /favicon.ico [33m404[0m 0.250 ms - 150[0m
+[0mGET / [32m200[0m 0.949 ms - 12[0m
+[0mGET / [32m200[0m 0.767 ms - 12[0m
+[0mGET / [32m200[0m 0.278 ms - 12[0m
+[0mGET /favicon.ico [33m404[0m 0.525 ms - 150[0m
+[0mGET / [32m200[0m 0.611 ms - 12[0m
+[0mGET / [32m200[0m 0.789 ms - 12[0m
+[0mGET / [32m200[0m 0.926 ms - 12[0m
+[0mGET / [32m200[0m 0.267 ms - 12[0m
+[0mGET /Portal0000.htm [33m404[0m 0.387 ms - 153[0m
+[0mPOST /sdk [33m404[0m 0.236 ms - 143[0m
+[0mGET /nmaplowercheck1663387443 [33m404[0m 0.217 ms - 163[0m
+[0mGET /QfCb [33m404[0m 0.113 ms - 143[0m
+[0mGET /CSS/Miniweb.css [33m404[0m 0.111 ms - 154[0m
+[0mGET /localstart.cgi [33m404[0m 0.112 ms - 153[0m
+[0mGET /Portal/Portal.mwsl [33m404[0m 0.170 ms - 157[0m
+[0mGET /HNAP1 [33m404[0m 0.239 ms - 144[0m
+[0mGET /__Additional [33m404[0m 0.152 ms - 151[0m
+[0mGET /docs/cplugError.html/ [33m404[0m 0.146 ms - 160[0m
+[0mGET /menu.pl [33m404[0m 0.207 ms - 146[0m
+[0mGET /favicon.ico [33m404[0m 0.231 ms - 150[0m
+[0mHEAD / [32m200[0m 0.252 ms - 12[0m
+[0mGET / [32m200[0m 0.265 ms - 12[0m
+[0mGET /pools [33m404[0m 0.229 ms - 144[0m
+[0mGET /?=PHPB8B5F2A0-3C92-11d3-A3A9-4C7B08C10000 [32m200[0m 0.186 ms - 12[0m
+[0mGET / [32m200[0m 0.203 ms - 12[0m
+[0mGET / [32m200[0m 0.201 ms - 12[0m
+[0mGET / [32m200[0m 0.205 ms - 12[0m
+[0mGET / [32m200[0m 0.498 ms - 12[0m
+[0mGET /favicon.ico [33m404[0m 0.425 ms - 150[0m
+[0mGET / [32m200[0m 0.912 ms - 12[0m
+[0mGET / [32m200[0m 0.996 ms - 12[0m
+[0mGET / [32m200[0m 0.584 ms - 12[0m
+[0mGET /favicon.ico [33m404[0m 0.433 ms - 150[0m
+[0mGET /favicon.ico [33m404[0m 0.326 ms - 150[0m
+[0mGET / [32m200[0m 0.652 ms - 12[0m
+[0mGET / [32m200[0m 1.051 ms - 12[0m
+[0mGET / [32m200[0m 0.876 ms - 12[0m
+[0mGET / [32m200[0m 0.968 ms - 12[0m
+[0mGET /favicon.ico [33m404[0m 0.439 ms - 150[0m
+[0mGET / [32m200[0m 0.850 ms - 12[0m
+[0mGET / [32m200[0m 0.609 ms - 12[0m
+[0mGET / [32m200[0m 0.563 ms - 12[0m
+[0mGET / [32m200[0m 0.599 ms - 12[0m
+[0mGET /favicon.ico [33m404[0m 0.452 ms - 150[0m
+[0mGET /favicon.ico [33m404[0m 0.265 ms - 150[0m
+[0mGET / [32m200[0m 0.525 ms - 12[0m
+[0mGET / [32m200[0m 0.527 ms - 12[0m
+[0mGET / [32m200[0m 0.579 ms - 12[0m
+[0mGET /favicon.ico [33m404[0m 0.447 ms - 150[0m
+[0mGET / [32m200[0m 0.558 ms - 12[0m
+[0mHEAD / [32m200[0m 0.824 ms - 12[0m
+[0mGET /system_api.php [33m404[0m 0.490 ms - 153[0m
+[0mGET /c/version.js [33m404[0m 0.331 ms - 151[0m
+[0mGET /streaming/clients_live.php [33m404[0m 0.250 ms - 165[0m
+[0mGET /stalker_portal/c/version.js [33m404[0m 0.271 ms - 166[0m
+[0mGET /stream/live.php [33m404[0m 0.212 ms - 154[0m
+[0mGET /flu/403.html [33m404[0m 0.225 ms - 151[0m
+[0mGET / [32m200[0m 0.282 ms - 12[0m
+[0mGET / [32m200[0m 1.213 ms - 12[0m
+[0mGET / [32m200[0m 0.674 ms - 12[0m
+[0mGET /favicon.ico [33m404[0m 0.380 ms - 150[0m
+[0mGET /favicon.ico [33m404[0m 0.497 ms - 150[0m
+[0mGET /manage/account/login [33m404[0m 0.230 ms - 159[0m
+[0mGET /admin/index.html [33m404[0m 0.201 ms - 155[0m
+[0mGET /index.html [33m404[0m 0.199 ms - 149[0m
+[0mGET / [32m200[0m 0.473 ms - 12[0m
+[0mGET / [32m200[0m 0.681 ms - 12[0m
+[0mGET /favicon.ico [33m404[0m 0.388 ms - 150[0m
+[0mGET /favicon.ico [33m404[0m 0.401 ms - 150[0m
+[0mGET / [32m200[0m 0.811 ms - 12[0m
+[0mGET / [32m200[0m 0.538 ms - 12[0m
+[0mGET / [32m200[0m 0.198 ms - 12[0m
+[0mPUT /vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php [33m404[0m 0.384 ms - 189[0m
+[0mGET /cgi-bin/.%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/etc/hosts [33m404[0m 0.202 ms - 217[0m
+[0mGET /.DS_Store [33m404[0m 0.207 ms - 148[0m
+[0mGET / [32m200[0m 0.692 ms - 12[0m
+[0mGET /favicon.ico [33m404[0m 0.346 ms - 150[0m
+[0mGET / [32m200[0m 0.635 ms - 12[0m
+[0mGET / [32m200[0m 1.292 ms - 12[0m
+[0mGET / [32m200[0m 0.548 ms - 12[0m
+[0mGET / [32m200[0m 1.395 ms - 12[0m
+[0mGET /Portal/Portal.mwsl [33m404[0m 0.692 ms - 157[0m
+[0mGET /UQQe [33m404[0m 0.231 ms - 143[0m
+[0mGET /.git/HEAD [33m404[0m 0.119 ms - 148[0m
+[0mGET / [32m200[0m 0.262 ms - 12[0m
+[0mGET /nmaplowercheck1664158883 [33m404[0m 0.121 ms - 163[0m
+[0mGET /admin.jsp [33m404[0m 0.109 ms - 148[0m
+[0mGET /docs/cplugError.html/ [33m404[0m 0.276 ms - 160[0m
+[0mGET /HNAP1 [33m404[0m 0.147 ms - 144[0m
+[0mGET /start.html [33m404[0m 0.125 ms - 149[0m
+[0mGET /pools/default/buckets [33m404[0m 0.170 ms - 160[0m
+[0mGET /Portal0000.htm [33m404[0m 0.126 ms - 153[0m
+[0mGET /CSS/Miniweb.css [33m404[0m 0.146 ms - 154[0m
+[0mPOST /sdk [33m404[0m 0.221 ms - 143[0m
+[0mGET /favicon.ico [33m404[0m 0.199 ms - 150[0m
+[0mGET /main.html [33m404[0m 0.237 ms - 148[0m
+[0mGET /__Additional [33m404[0m 0.250 ms - 151[0m
+[0mHEAD / [32m200[0m 0.202 ms - 12[0m
+[0mGET / [32m200[0m 0.136 ms - 12[0m
+[0mGET /start.aspx [33m404[0m 1.352 ms - 149[0m
+[0mGET /home.jsp [33m404[0m 0.239 ms - 147[0m
+[0mGET / [32m200[0m 0.203 ms - 12[0m
+[0mGET /localstart.jsp [33m404[0m 0.205 ms - 153[0m
+[0mGET /menu.jsp [33m404[0m 0.200 ms - 147[0m
+[0mGET /home.asp [33m404[0m 0.203 ms - 147[0m
+[0mGET /localstart.cgi [33m404[0m 0.201 ms - 153[0m
+[0mGET /main.asp [33m404[0m 0.199 ms - 147[0m
+[0mGET /inicio.aspx [33m404[0m 0.217 ms - 150[0m
+[0mGET /main.aspx [33m404[0m 0.207 ms - 148[0m
+[0mGET /default.jsp [33m404[0m 0.205 ms - 150[0m
+[0mGET /robots.txt [33m404[0m 0.198 ms - 149[0m
+[0mGET /inicio.asp [33m404[0m 0.243 ms - 149[0m
+[0mGET /index.jsp [33m404[0m 0.212 ms - 148[0m
+[0mGET /?=PHPB8B5F2A0-3C92-11d3-A3A9-4C7B08C10000 [32m200[0m 0.191 ms - 12[0m
+[0mGET /readme.txt [33m404[0m 0.198 ms - 149[0m
+[0mGET /default.aspx [33m404[0m 0.289 ms - 151[0m
+[0mGET /default.php [33m404[0m 0.198 ms - 150[0m
+[0mGET /home.pl [33m404[0m 0.221 ms - 146[0m
+[0mGET /indice.shtml [33m404[0m 0.212 ms - 151[0m
+[0mGET /base.asp [33m404[0m 0.324 ms - 147[0m
+[0mGET /localstart.shtml [33m404[0m 0.229 ms - 155[0m
+[0mGET / [32m200[0m 0.210 ms - 12[0m
+[0mGET / [32m200[0m 0.209 ms - 12[0m
+[0mGET / [32m200[0m 0.204 ms - 12[0m
+[0mGET / [32m200[0m 0.853 ms - 12[0m
+[0mGET /favicon.ico [33m404[0m 0.425 ms - 150[0m
+[0mGET / [32m200[0m 0.628 ms - 12[0m
+[0mGET /favicon.ico [33m404[0m 0.391 ms - 150[0m
+[0mGET / [32m200[0m 0.812 ms - 12[0m
+[0mGET / [32m200[0m 0.677 ms - 12[0m
+[0mGET / [32m200[0m 0.549 ms - 12[0m
+[0mGET /favicon.ico [33m404[0m 0.528 ms - 150[0m
+[0mGET /favicon.ico [33m404[0m 0.282 ms - 150[0m
+[0mGET / [32m200[0m 1.407 ms - 12[0m
+[0mGET / [32m200[0m 0.474 ms - 12[0m
+[0mGET /favicon.ico [33m404[0m 0.252 ms - 150[0m
+[0mGET / [32m200[0m 0.276 ms - 12[0m
+[0mGET / [32m200[0m 0.649 ms - 12[0m
+[0mGET / [32m200[0m 0.600 ms - 12[0m
+[0mGET /favicon.ico [33m404[0m 0.395 ms - 150[0m
+[0mGET /robots.txt [33m404[0m 0.287 ms - 149[0m
+[0mGET /sitemap.xml [33m404[0m 0.190 ms - 150[0m
+[0mGET / [32m200[0m 0.529 ms - 12[0m
+[0mGET / [32m200[0m 0.478 ms - 12[0m
+[0mGET /favicon.ico [33m404[0m 0.241 ms - 150[0m
+[0mGET / [32m200[0m 0.700 ms - 12[0m
+[0mGET / [32m200[0m 0.750 ms - 12[0m
+[0mGET /favicon.ico [33m404[0m 0.457 ms - 150[0m
+[0mHEAD / [32m200[0m 1.249 ms - 12[0m
+[0mGET /system_api.php [33m404[0m 0.869 ms - 153[0m
+[0mGET /c/version.js [33m404[0m 0.234 ms - 151[0m
+[0mGET /streaming/clients_live.php [33m404[0m 0.192 ms - 165[0m
+[0mGET /stalker_portal/c/version.js [33m404[0m 0.192 ms - 166[0m
+[0mGET /stream/live.php [33m404[0m 0.190 ms - 154[0m
+[0mGET /flu/403.html [33m404[0m 0.195 ms - 151[0m
+[0mGET / [32m200[0m 0.245 ms - 12[0m
+[0mGET / [32m200[0m 0.497 ms - 12[0m
+[0mGET /favicon.ico [33m404[0m 0.341 ms - 150[0m
+[0mGET / [32m200[0m 0.714 ms - 12[0m
+[0mGET / [32m200[0m 0.857 ms - 12[0m
+[0mGET /favicon.ico [33m404[0m 0.470 ms - 150[0m
+[0mGET /favicon.ico [33m404[0m 0.350 ms - 150[0m
+[0mGET / [32m200[0m 0.815 ms - 12[0m
+[0mGET / [32m200[0m 0.852 ms - 12[0m
+[0mGET / [32m200[0m 0.783 ms - 12[0m
+[0mGET / [32m200[0m 0.685 ms - 12[0m
+[0mGET / [32m200[0m 0.552 ms - 12[0m
+[0mGET / [32m200[0m 1.255 ms - 12[0m
+[0mGET / [32m200[0m 0.607 ms - 12[0m
+[0mGET / [32m200[0m 0.703 ms - 12[0m
+[0mGET /favicon.ico [33m404[0m 0.430 ms - 150[0m
+[0mGET / [32m200[0m 1.093 ms - 12[0m
+[0mGET / [32m200[0m 0.608 ms - 12[0m
+[0mGET /favicon.ico [33m404[0m 0.534 ms - 150[0m
+[0mGET / [32m200[0m 0.529 ms - 12[0m
+[0mGET / [32m200[0m 0.620 ms - 12[0m
+[0mGET / [32m200[0m 1.229 ms - 12[0m
+[0mGET / [32m200[0m 0.276 ms - 12[0m
+[0mGET / [32m200[0m 0.617 ms - 12[0m
+[0mGET /favicon.ico [33m404[0m 0.670 ms - 150[0m
+[0mGET / [32m200[0m 0.598 ms - 12[0m
+[0mGET / [32m200[0m 0.281 ms - 12[0m
+[0mGET /favicon.ico [33m404[0m 0.452 ms - 150[0m
+[0mGET / [32m200[0m 0.711 ms - 12[0m
+[0mHEAD / [32m200[0m 0.787 ms - 12[0m
+[0mGET /system_api.php [33m404[0m 0.536 ms - 153[0m
+[0mGET /c/version.js [33m404[0m 0.203 ms - 151[0m
+[0mGET /streaming/clients_live.php [33m404[0m 0.233 ms - 165[0m
+[0mGET /stalker_portal/c/version.js [33m404[0m 0.197 ms - 166[0m
+[0mGET /stream/live.php [33m404[0m 0.264 ms - 154[0m
+[0mGET /flu/403.html [33m404[0m 0.180 ms - 151[0m
+[0mGET / [32m200[0m 0.201 ms - 12[0m
+[0mGET / [32m200[0m 0.481 ms - 12[0m
+stdout: -------------------INFORMATION-------------------
+New Plugin is: order-booking-v415.zip
+Old Plugin is: order-booking
+Log File: /home/bash/bash/src/log.txt
+Input File: input.csv
+-------------------------------------------------
+ShopName,Host,Username,Password,Path
+"Test Shop",home651354579.1and1-data.host,u86737244,**********,/kunden/homepages/3/d651354579/htdocs/entw-shop
+Record is : ShopName
+Record is : "Test Shop"
+  -------------------UPDATING-------------------
+  Shop name: "Test Shop"
+  Host: home651354579.1and1-data.host
+  Username: u86737244
+  Password: ********
+  Path: /kunden/homepages/3/d651354579/htdocs/entw-shop
+      | ***** Deactivating plugin "order-booking" ...
+      | ***** Plugin "order-booking" has been deactivated.
+      | ***** Deleting plugin "order-booking" ...
+      | ***** Plugin "order-booking" has been removed.
+      | ***** Uploading file "order-booking-v415.zip.zip" ...
+      | ***** File "order-booking-v415.zip" has been uploaded.
+      | ***** File "order-booking-v415.zip" has been unziped.
+      | ***** Activating plugin "order-booking" ...
+      | ***** Plugin "order-booking" has been activated.
+      | ***** File "order-booking-v415.zip" has been deleted.
+      | ***** [SUCCESS] Shop ""Test Shop"" has been updated.
+-------------------------------------------------
+---------------DONE------------------
+UPDATED 1/1 shops (0 shops FAILED)
+Duration time: 4 seconds.
+
+stderr: Warning: Plugin 'order-booking' is already active.
+
+[0mPOST /upload-plugin [32m200[0m 4427.885 ms - 2463[0m
+[0mGET / [32m200[0m 0.603 ms - 12[0m
+[0mGET /favicon.ico [33m404[0m 0.433 ms - 150[0m
+[0mGET /favicon.ico [33m404[0m 0.377 ms - 150[0m
+[0mGET / [32m200[0m 0.631 ms - 12[0m
+[0mGET / [32m200[0m 0.497 ms - 12[0m
+[0mGET / [32m200[0m 0.660 ms - 12[0m
+[0mGET /favicon.ico [33m404[0m 0.423 ms - 150[0m
+[0mGET /robots.txt [33m404[0m 0.325 ms - 149[0m
+[0mGET /sitemap.xml [33m404[0m 0.191 ms - 150[0m
+[0mGET / [32m200[0m 0.455 ms - 12[0m
+[0mGET / [32m200[0m 0.357 ms - 12[0m
+[0mGET / [32m200[0m 0.437 ms - 12[0m
+[0mGET / [32m200[0m 0.894 ms - 12[0m
+[0mGET /favicon.ico [33m404[0m 0.579 ms - 150[0m
+[0mGET / [32m200[0m 0.670 ms - 12[0m
+[0mGET / [32m200[0m 0.641 ms - 12[0m
+[0mGET / [32m200[0m 0.700 ms - 12[0m
+[0mGET / [32m200[0m 0.690 ms - 12[0m
+[0mGET / [32m200[0m 0.571 ms - 12[0m
+[0mGET / [32m200[0m 0.263 ms - 12[0m
+[0mGET /favicon.ico [33m404[0m 0.441 ms - 150[0m
+[0mGET / [32m200[0m 0.523 ms - 12[0m
+[0mGET / [32m200[0m 0.661 ms - 12[0m
+[0mGET / [32m200[0m 0.766 ms - 12[0m
+[0mGET / [32m200[0m 0.901 ms - 12[0m
+[0mGET /favicon.ico [33m404[0m 0.439 ms - 150[0m
+[0mGET /favicon.ico [33m404[0m 0.344 ms - 150[0m
+[0mGET / [32m200[0m 0.722 ms - 12[0m
+[0mGET / [32m200[0m 1.112 ms - 12[0m
+[0mGET / [32m200[0m 0.655 ms - 12[0m
+[0mGET / [32m200[0m 0.540 ms - 12[0m
+[0mGET / [32m200[0m 0.473 ms - 12[0m
+[0mGET / [32m200[0m 1.265 ms - 12[0m
+[0mGET / [32m200[0m 1.235 ms - 12[0m
+stdout: -------------------INFORMATION-------------------
+New Plugin is: order-booking-v415-1.zip
+Old Plugin is: order-booking
+Log File: /home/bash/bash/src/log.txt
+Input File: input.csv
+-------------------------------------------------
+ShopName,Host,Username,Password,Path
+Record is : ShopName
+---------------DONE------------------
+UPDATED 0/0 shops (0 shops FAILED)
+Duration time: 0 seconds.
+
+stderr: 
+[0mPOST /upload-plugin [32m200[0m 52.485 ms - 618[0m
+stdout: -------------------INFORMATION-------------------
+New Plugin is: order-booking-v415-1.zip
+Old Plugin is: order-booking
+Log File: /home/bash/bash/src/log.txt
+Input File: input.csv
+-------------------------------------------------
+ShopName,Host,Username,Password,Path
+Myamstix,access837354508.webspace-data.io,u101715096,**********,/kunden/homepages/17/d837354508/htdocs/1_Shops/Myamstix
+Record is : ShopName
+Record is : Myamstix
+  -------------------UPDATING-------------------
+  Shop name: Myamstix
+  Host: access837354508.webspace-data.io
+  Username: u101715096
+  Password: ********
+  Path: /kunden/homepages/17/d837354508/htdocs/1_Shops/Myamstix
+      | ***** Deactivating plugin "order-booking" ...
+      | ***** Plugin "order-booking" has been deactivated.
+      | ***** Deleting plugin "order-booking" ...
+      | ***** Plugin "order-booking" has been removed.
+      | ***** Uploading file "order-booking-v415-1.zip.zip" ...
+      | ***** File "order-booking-v415-1.zip" has been uploaded.
+      | ***** File "order-booking-v415-1.zip" has been unziped.
+      | ***** Activating plugin "order-booking" ...
+      | ***** Plugin "order-booking" has been activated.
+      | ***** File "order-booking-v415-1.zip" has been deleted.
+      | ***** [SUCCESS] Shop "Myamstix" has been updated.
+-------------------------------------------------
+---------------DONE------------------
+UPDATED 1/1 shops (0 shops FAILED)
+Duration time: 8 seconds.
+
+stderr: Warning: Plugin 'order-booking' is already active.
+
+[0mPOST /upload-plugin [32m200[0m 8081.315 ms - 2485[0m
+[0mGET / [32m200[0m 1.197 ms - 12[0m
+[0mGET / [32m200[0m 0.371 ms - 12[0m
+[0mGET /favicon.ico [33m404[0m 0.630 ms - 150[0m
+[0mGET / [32m200[0m 1.035 ms - 12[0m
+[0mGET / [32m200[0m 0.521 ms - 12[0m
+[0mGET / [32m200[0m 3.637 ms - 12[0m
+[0mGET / [32m200[0m 0.615 ms - 12[0m
+[0mGET / [32m200[0m 0.724 ms - 12[0m
+[0mGET / [32m200[0m 0.300 ms - 12[0m
+[0mGET / [32m200[0m 0.242 ms - 12[0m
+[0mGET /favicon.ico [33m404[0m 0.636 ms - 150[0m
+[0mGET / [32m200[0m 0.525 ms - 12[0m
+[0mGET / [32m200[0m 0.580 ms - 12[0m
+[0mGET /favicon.ico [33m404[0m 0.293 ms - 150[0m
+[0mGET /favicon.ico [33m404[0m 0.256 ms - 150[0m
+[0mGET / [32m200[0m 0.574 ms - 12[0m
+[0mGET / [32m200[0m 0.551 ms - 12[0m
+[0mGET / [32m200[0m 0.825 ms - 12[0m
+[0mGET / [32m200[0m 0.523 ms - 12[0m
+[0mGET /favicon.ico [33m404[0m 0.425 ms - 150[0m
+[0mGET / [32m200[0m 0.652 ms - 12[0m
+[0mGET / [32m200[0m 0.646 ms - 12[0m
+[0mGET / [32m200[0m 0.560 ms - 12[0m
+[0mGET / [32m200[0m 1.208 ms - 12[0m
+[0mGET /favicon.ico [33m404[0m 1.653 ms - 150[0m
+[0mGET / [32m200[0m 0.464 ms - 12[0m
+[0mGET / [32m200[0m 0.413 ms - 12[0m
+[0mGET / [32m200[0m 0.385 ms - 12[0m
+[0mGET /favicon.ico [33m404[0m 0.374 ms - 150[0m
+[0mGET / [32m200[0m 0.269 ms - 12[0m
+[0mGET / [32m200[0m 1.351 ms - 12[0m
+[0mGET / [32m200[0m 0.642 ms - 12[0m
+[0mGET / [32m200[0m 0.711 ms - 12[0m
+[0mGET / [32m200[0m 0.805 ms - 12[0m
+[0mGET / [32m200[0m 0.728 ms - 12[0m
+[0mGET / [32m200[0m 1.147 ms - 12[0m
+[0mGET /favicon.ico [33m404[0m 0.635 ms - 150[0m
+[0mGET /robots.txt [33m404[0m 0.220 ms - 149[0m
+[0mGET /sitemap.xml [33m404[0m 0.162 ms - 150[0m
+[0mGET / [32m200[0m 0.355 ms - 12[0m
+[0mHEAD / [32m200[0m 0.250 ms - 12[0m
+[0mGET /system_api.php [33m404[0m 0.238 ms - 153[0m
+[0mGET /c/version.js [33m404[0m 0.186 ms - 151[0m
+[0mGET /streaming/clients_live.php [33m404[0m 0.203 ms - 165[0m
+[0mGET /stalker_portal/c/version.js [33m404[0m 0.188 ms - 166[0m
+[0mGET /stream/live.php [33m404[0m 0.179 ms - 154[0m
+[0mGET /flu/403.html [33m404[0m 0.175 ms - 151[0m
+[0mGET / [32m200[0m 0.203 ms - 12[0m
+[0mGET / [32m200[0m 0.233 ms - 12[0m
+[0mGET / [32m200[0m 0.577 ms - 12[0m
+[0mGET / [32m200[0m 0.370 ms - 12[0m
+[0mGET / [32m200[0m 0.495 ms - 12[0m
+[0mGET / [32m200[0m 0.373 ms - 12[0m
+[0mGET / [32m200[0m 0.427 ms - 12[0m
+[0mGET / [32m200[0m 0.411 ms - 12[0m
+[0mGET / [32m200[0m 0.516 ms - 12[0m
+[0mGET / [32m200[0m 0.592 ms - 12[0m
+[0mGET / [32m200[0m 0.603 ms - 12[0m
+[0mGET / [32m200[0m 1.052 ms - 12[0m
+[0mGET / [32m200[0m 0.692 ms - 12[0m
+[0mGET /favicon.ico [33m404[0m 0.406 ms - 150[0m
+[0mGET / [32m200[0m 1.265 ms - 12[0m
+[0mGET / [32m200[0m 0.778 ms - 12[0m
+[0mGET / [32m200[0m 0.208 ms - 12[0m
+[0mGET /favicon.ico [33m404[0m 0.433 ms - 150[0m
+[0mGET / [32m200[0m 0.834 ms - 12[0m
+[0mGET /favicon.ico [33m404[0m 0.434 ms - 150[0m
+[0mGET / [32m200[0m 0.745 ms - 12[0m
+[0mGET /CSS/Miniweb.css [33m404[0m 0.318 ms - 154[0m
+[0mGET /nmaplowercheck1665889502 [33m404[0m 0.138 ms - 163[0m
+[0mPOST /sdk [33m404[0m 0.219 ms - 143[0m
+[0mGET /.git/HEAD [33m404[0m 0.107 ms - 148[0m
+[0mGET / [32m200[0m 0.149 ms - 12[0m
+[0mGET /Portal0000.htm [33m404[0m 0.109 ms - 153[0m
+[0mGET /pools/default/buckets [33m404[0m 0.280 ms - 160[0m
+[0mGET /__Additional [33m404[0m 0.199 ms - 151[0m
+[0mGET /HNAP1 [33m404[0m 0.206 ms - 144[0m
+[0mGET /menu.aspx [33m404[0m 0.148 ms - 148[0m
+[0mGET /9iCw [33m404[0m 0.126 ms - 143[0m
+[0mGET / [32m200[0m 0.206 ms - 12[0m
+[0mGET /?=PHPE9568F36-D428-11d2-A769-00AA001ACF42 [32m200[0m 0.185 ms - 12[0m
+[0mGET /pools [33m404[0m 0.253 ms - 144[0m
+[0mGET /default.jsa [33m404[0m 0.246 ms - 150[0m
+[0mGET / [32m200[0m 0.211 ms - 12[0m
+[0mGET /?=PHPB8B5F2A0-3C92-11d3-A3A9-4C7B08C10000 [32m200[0m 0.192 ms - 12[0m
+[0mGET /Portal/Portal.mwsl [33m404[0m 0.178 ms - 157[0m
+[0mGET /base.jsp [33m404[0m 0.232 ms - 147[0m
+[0mGET /docs/cplugError.html/ [33m404[0m 0.205 ms - 160[0m
+[0mHEAD / [32m200[0m 0.658 ms - 12[0m
+[0mGET /robots.txt [33m404[0m 0.271 ms - 149[0m
+[0mGET /index.php [33m404[0m 0.214 ms - 148[0m
+[0mGET / [32m200[0m 0.204 ms - 12[0m
+[0mGET /localstart.aspx [33m404[0m 0.231 ms - 154[0m
+[0mGET /favicon.ico [33m404[0m 0.152 ms - 150[0m
+[0mGET /indice.asp [33m404[0m 0.204 ms - 149[0m
+[0mGET /index.jsa [33m404[0m 0.199 ms - 148[0m
+[0mGET /admin.shtml [33m404[0m 0.323 ms - 150[0m
+[0mGET /base.html [33m404[0m 0.218 ms - 148[0m
+[0mGET /home.jsa [33m404[0m 1.360 ms - 147[0m
+[0mGET /index.html [33m404[0m 0.205 ms - 149[0m
+[0mGET /main.cfm [33m404[0m 0.206 ms - 147[0m
+[0mGET /home.aspx [33m404[0m 2.294 ms - 148[0m
+[0mGET /main.shtml [33m404[0m 0.290 ms - 149[0m
+[0mGET /inicio.cfm [33m404[0m 0.219 ms - 149[0m
+[0mGET /admin.cgi [33m404[0m 0.241 ms - 148[0m
+[0mGET /inicio.jsa [33m404[0m 0.214 ms - 149[0m
+[0mGET /admin.asp [33m404[0m 0.218 ms - 148[0m
+[0mGET /admin.jsa [33m404[0m 0.368 ms - 148[0m
+[0mGET /default.pl [33m404[0m 0.200 ms - 149[0m
+[0mGET /default.cgi [33m404[0m 0.206 ms - 150[0m
+[0mGET /default.asp [33m404[0m 0.277 ms - 150[0m
+[0mGET /menu.cfm [33m404[0m 0.215 ms - 147[0m
+[0mGET /start.jhtml [33m404[0m 0.217 ms - 150[0m
+[0mGET /admin.html [33m404[0m 0.249 ms - 149[0m
+[0mGET /admin.cfm [33m404[0m 0.206 ms - 148[0m
+[0mGET /admin.aspx [33m404[0m 0.219 ms - 149[0m
+[0mGET /index.pl [33m404[0m 0.235 ms - 147[0m
+[0mGET /admin.jsp [33m404[0m 0.210 ms - 148[0m
+[0mGET /start.jsa [33m404[0m 0.206 ms - 148[0m
+[0mGET /inicio.asp [33m404[0m 0.207 ms - 149[0m
+[0mGET /main.aspx [33m404[0m 0.202 ms - 148[0m
+[0mGET /indice.html [33m404[0m 0.195 ms - 150[0m
+[0mGET /indice.jhtml [33m404[0m 0.220 ms - 151[0m
+[0mGET / [32m200[0m 0.183 ms - 12[0m
+[0mGET /main.asp [33m404[0m 0.202 ms - 147[0m
+[0mGET /main.php [33m404[0m 0.208 ms - 147[0m
+[0mGET /index.jsp [33m404[0m 0.252 ms - 148[0m
+[0mGET /main.jhtml [33m404[0m 0.199 ms - 149[0m
+[0mGET /index.shtml [33m404[0m 0.250 ms - 150[0m
+[0mGET /indice.aspx [33m404[0m 0.244 ms - 150[0m
+[0mGET /inicio.aspx [33m404[0m 0.274 ms - 150[0m
+[0mGET /admin.pl [33m404[0m 0.255 ms - 147[0m
+[0mGET /main.jsa [33m404[0m 0.207 ms - 147[0m
+[0mGET /base.jhtml [33m404[0m 0.202 ms - 149[0m
+[0mGET /base.inc [33m404[0m 0.281 ms - 147[0m
+[0mGET /base.jsa [33m404[0m 0.193 ms - 147[0m
+[0mGET /indice.jsp [33m404[0m 0.196 ms - 149[0m
+[0mGET /home.php [33m404[0m 0.209 ms - 147[0m
+[0mGET /default.shtml [33m404[0m 0.239 ms - 152[0m
+[0mGET /localstart.asp [33m404[0m 0.224 ms - 153[0m
+[0mGET /base.cfm [33m404[0m 0.206 ms - 147[0m
+[0mGET /base.aspx [33m404[0m 0.195 ms - 148[0m
+[0mGET /base.asp [33m404[0m 0.216 ms - 147[0m
+[0mGET /menu.html [33m404[0m 0.213 ms - 148[0m
+[0mGET /indice.shtml [33m404[0m 0.195 ms - 151[0m
+[0mGET /menu.asp [33m404[0m 0.214 ms - 147[0m
+[0mGET /home.jhtml [33m404[0m 0.201 ms - 149[0m
+[0mGET /base.shtml [33m404[0m 0.200 ms - 149[0m
+[0mGET /indice.php [33m404[0m 0.223 ms - 149[0m
+[0mGET /index.cgi [33m404[0m 0.227 ms - 148[0m
+[0mGET /indice.jsa [33m404[0m 0.261 ms - 149[0m
+[0mGET /home.asp [33m404[0m 0.224 ms - 147[0m
+[0mGET /home.shtml [33m404[0m 0.220 ms - 149[0m
+[0mGET /start.html [33m404[0m 0.212 ms - 149[0m
+[0mGET /inicio.shtml [33m404[0m 0.203 ms - 151[0m
+[0mGET /indice.cgi [33m404[0m 0.238 ms - 149[0m
+[0mGET /inicio.html [33m404[0m 0.201 ms - 150[0m
+[0mGET /main.html [33m404[0m 0.233 ms - 148[0m
+[0mGET /inicio.pl [33m404[0m 0.216 ms - 148[0m
+[0mGET /menu.jsp [33m404[0m 0.204 ms - 147[0m
+[0mGET /localstart.jsa [33m404[0m 0.223 ms - 153[0m
+[0mGET /inicio.jsp [33m404[0m 0.198 ms - 149[0m
+[0mGET /inicio.php [33m404[0m 0.225 ms - 149[0m
+[0mGET /home.pl [33m404[0m 0.212 ms - 146[0m
+[0mGET /inicio.jhtml [33m404[0m 0.195 ms - 151[0m
+[0mGET /start.jsp [33m404[0m 0.197 ms - 148[0m
+[0mGET /indice.cfm [33m404[0m 0.200 ms - 149[0m
+[0mGET /index.asp [33m404[0m 0.212 ms - 148[0m
+[0mGET /default.php [33m404[0m 0.195 ms - 150[0m
+[0mGET /menu.jhtml [33m404[0m 0.198 ms - 149[0m
+[0mGET /start.asp [33m404[0m 0.230 ms - 148[0m
+[0mGET /localstart.html [33m404[0m 0.312 ms - 154[0m
+[0mGET /base.pl [33m404[0m 0.219 ms - 146[0m
+[0mGET /menu.pl [33m404[0m 0.219 ms - 146[0m
+[0mGET /localstart.shtml [33m404[0m 0.205 ms - 155[0m
+[0mGET /main.pl [33m404[0m 0.197 ms - 146[0m
+[0mGET /main.jsp [33m404[0m 0.198 ms - 147[0m
+[0mGET /start.cgi [33m404[0m 0.202 ms - 148[0m
+[0mGET /index.aspx [33m404[0m 0.237 ms - 149[0m
+[0mGET /localstart.pl [33m404[0m 0.208 ms - 152[0m
+[0mGET /readme.txt [33m404[0m 0.211 ms - 149[0m
+[0mGET /localstart.jsp [33m404[0m 0.204 ms - 153[0m
+[0mGET /localstart.jhtml [33m404[0m 0.203 ms - 155[0m
+[0mGET /inicio.cgi [33m404[0m 0.199 ms - 149[0m
+[0mGET /localstart.cgi [33m404[0m 0.239 ms - 153[0m
+[0mGET /default.html [33m404[0m 0.205 ms - 151[0m
+[0mGET /main.cgi [33m404[0m 0.197 ms - 147[0m
+[0mGET /localstart.cfm [33m404[0m 0.201 ms - 153[0m
+[0mGET /localstart.php [33m404[0m 0.228 ms - 153[0m
+[0mGET /start.shtml [33m404[0m 0.196 ms - 150[0m
+[0mGET /start.pl [33m404[0m 0.191 ms - 147[0m
+[0mGET /menu.php [33m404[0m 0.242 ms - 147[0m
+[0mGET /menu.cgi [33m404[0m 0.201 ms - 147[0m
+[0mGET /menu.shtml [33m404[0m 0.213 ms - 149[0m
+[0mGET /start.php [33m404[0m 0.212 ms - 148[0m
+[0mGET /index.cfm [33m404[0m 0.248 ms - 148[0m
+[0mGET /default.jhtml [33m404[0m 0.215 ms - 152[0m
+[0mGET /default.cfm [33m404[0m 0.223 ms - 150[0m
+[0mGET /indice.pl [33m404[0m 0.194 ms - 148[0m
+[0mGET /admin.jhtml [33m404[0m 0.193 ms - 150[0m
+[0mGET /home.cfm [33m404[0m 0.197 ms - 147[0m
+[0mGET /start.cfm [33m404[0m 0.240 ms - 148[0m
+[0mGET /default.aspx [33m404[0m 0.197 ms - 151[0m
+[0mGET /home.jsp [33m404[0m 0.196 ms - 147[0m
+[0mGET /default.jsp [33m404[0m 0.310 ms - 150[0m
+[0mGET /home.cgi [33m404[0m 0.197 ms - 147[0m
+[0mGET /home.html [33m404[0m 0.194 ms - 148[0m
+[0mGET /base.php [33m404[0m 0.216 ms - 147[0m
+[0mGET /menu.jsa [33m404[0m 0.207 ms - 147[0m
+[0mGET /base.cgi [33m404[0m 0.195 ms - 147[0m
+[0mGET /index.jhtml [33m404[0m 0.226 ms - 150[0m
+[0mGET /admin.php [33m404[0m 0.264 ms - 148[0m
+[0mGET /start.aspx [33m404[0m 0.198 ms - 149[0m
+[0mGET / [32m200[0m 0.306 ms - 12[0m
+[0mGET / [32m200[0m 0.191 ms - 12[0m
+[0mGET / [32m200[0m 0.662 ms - 12[0m
+[0mGET /favicon.ico [33m404[0m 0.641 ms - 150[0m
+[0mGET /robots.txt [33m404[0m 0.329 ms - 149[0m
+[0mGET /sitemap.xml [33m404[0m 0.195 ms - 150[0m
+[0mGET / [32m200[0m 0.568 ms - 12[0m
+[0mGET / [32m200[0m 0.814 ms - 12[0m
+[0mGET /favicon.ico [33m404[0m 0.392 ms - 150[0m
+[0mGET /sitemap.xml [33m404[0m 0.604 ms - 150[0m
+[0mGET / [32m200[0m 0.898 ms - 12[0m
+[0mGET / [32m200[0m 0.615 ms - 12[0m
+[0mGET /favicon.ico [33m404[0m 0.395 ms - 150[0m
+[0mGET / [32m200[0m 0.695 ms - 12[0m
+[0mGET /servlet?m=mod_listener&p=login&q=loginForm&jumpto=status [33m404[0m 0.538 ms - 146[0m
+[0mGET / [32m200[0m 0.542 ms - 12[0m
+[0mGET / [32m200[0m 0.530 ms - 12[0m
+[0mGET / [32m200[0m 0.618 ms - 12[0m
+[0mGET / [32m200[0m 1.077 ms - 12[0m
+[0mGET / [32m200[0m 0.632 ms - 12[0m
+[0mGET / [32m200[0m 0.558 ms - 12[0m
+[0mGET / [32m200[0m 0.587 ms - 12[0m
+[0mGET /favicon.ico [33m404[0m 0.495 ms - 150[0m
+[0mHEAD / [32m200[0m 0.594 ms - 12[0m
+[0mGET /system_api.php [33m404[0m 0.403 ms - 153[0m
+[0mGET /c/version.js [33m404[0m 0.352 ms - 151[0m
+[0mGET /streaming/clients_live.php [33m404[0m 0.178 ms - 165[0m
+[0mGET /stalker_portal/c/version.js [33m404[0m 0.189 ms - 166[0m
+[0mGET /stream/live.php [33m404[0m 0.182 ms - 154[0m
+[0mGET /flu/403.html [33m404[0m 0.188 ms - 151[0m
+[0mGET / [32m200[0m 0.276 ms - 12[0m
+[0mGET / [32m200[0m 0.727 ms - 12[0m
+[0mGET / [32m200[0m 0.536 ms - 12[0m
+[0mGET /favicon.ico [33m404[0m 0.415 ms - 150[0m
+[0mGET / [32m200[0m 0.675 ms - 12[0m
+[0mGET / [32m200[0m 0.193 ms - 12[0m
+[0mGET /favicon.ico [33m404[0m 0.344 ms - 150[0m
+[0mGET / [32m200[0m 0.562 ms - 12[0m
+[0mGET / [32m200[0m 0.694 ms - 12[0m
+[0mGET / [32m200[0m 0.678 ms - 12[0m
+[0mGET / [32m200[0m 0.615 ms - 12[0m
+[0mGET /MEuU [33m404[0m 0.359 ms - 143[0m
+[0mGET / [32m200[0m 0.260 ms - 12[0m
+[0mGET /?=PHPE9568F36-D428-11d2-A769-00AA001ACF42 [32m200[0m 0.985 ms - 12[0m
+[0mGET / [32m200[0m 0.109 ms - 12[0m
+[0mGET /Portal0000.htm [33m404[0m 0.209 ms - 153[0m
+[0mGET /?=PHPB8B5F2A0-3C92-11d3-A3A9-4C7B08C10000 [32m200[0m 0.193 ms - 12[0m
+[0mGET /__Additional [33m404[0m 0.146 ms - 151[0m
+[0mGET /nmaplowercheck1666342821 [33m404[0m 0.202 ms - 163[0m
+[0mGET /favicon.ico [33m404[0m 0.209 ms - 150[0m
+[0mGET /CSS/Miniweb.css [33m404[0m 0.157 ms - 154[0m
+[0mGET /.git/HEAD [33m404[0m 0.126 ms - 148[0m
+[0mPOST /sdk [33m404[0m 0.313 ms - 143[0m
+[0mGET /pools/default/buckets [33m404[0m 0.157 ms - 160[0m
+[0mGET /HNAP1 [33m404[0m 0.221 ms - 144[0m
+[0mGET /Portal/Portal.mwsl [33m404[0m 0.263 ms - 157[0m
+[0mGET /pools [33m404[0m 0.897 ms - 144[0m
+[0mHEAD / [32m200[0m 0.169 ms - 12[0m
+[0mGET /start.cfm [33m404[0m 0.123 ms - 148[0m
+[0mGET /docs/cplugError.html/ [33m404[0m 0.213 ms - 160[0m
+[0mGET /index.php [33m404[0m 0.190 ms - 148[0m
+[0mGET / [32m200[0m 0.180 ms - 12[0m
+[0mGET /main.php [33m404[0m 0.251 ms - 147[0m
+[0mGET /menu.shtml [33m404[0m 0.202 ms - 149[0m
+[0mGET /home.jsp [33m404[0m 0.227 ms - 147[0m
+[0mGET /start.shtml [33m404[0m 0.199 ms - 150[0m
+[0mGET /inicio.jhtml [33m404[0m 0.200 ms - 151[0m
+[0mGET / [32m200[0m 0.197 ms - 12[0m
+[0mGET / [32m200[0m 1.204 ms - 12[0m
+[0mGET /favicon.ico [33m404[0m 0.521 ms - 150[0m
+[0mGET /favicon.ico [33m404[0m 0.464 ms - 150[0m
+[0mGET /manage/account/login [33m404[0m 0.224 ms - 159[0m
+[0mGET /admin/index.html [33m404[0m 0.541 ms - 155[0m
+[0mGET /index.html [33m404[0m 0.617 ms - 149[0m
+[0mGET / [32m200[0m 0.566 ms - 12[0m
+[0mGET / [32m200[0m 0.471 ms - 12[0m
+[0mGET / [32m200[0m 0.476 ms - 12[0m
+[0mGET / [32m200[0m 1.088 ms - 12[0m
+[0mGET / [32m200[0m 0.696 ms - 12[0m
+[0mGET / [32m200[0m 0.725 ms - 12[0m
+[0mGET /favicon.ico [33m404[0m 0.433 ms - 150[0m
+[0mGET / [32m200[0m 1.172 ms - 12[0m
+[0mGET / [32m200[0m 1.226 ms - 12[0m
+[0mGET /favicon.ico [33m404[0m 0.596 ms - 150[0m
+[0mGET / [32m200[0m 0.358 ms - 12[0m
+[0mGET / [32m200[0m 0.796 ms - 12[0m
+[0mPOST /casa/nodes/thumbprints [33m404[0m 0.189 ms - 162[0m
+[0mPOST /ui/h5-vsan/rest/proxy/service/com.vmware.vsan.client.services.capability.VsanCapabilityProvider/getClusterCapabilityData [33m404[0m 0.084 ms - 260[0m
+[0mGET /rest/applinks/1.0/manifest [33m404[0m 0.197 ms - 165[0m
+[0mGET /dana-na/../dana/html5acc/guacamole/../../../../../../etc/passwd?/dana/html5acc/guacamole/ [33m404[0m 0.135 ms - 202[0m
+[0mGET /autodiscover/autodiscover.json?@abc.com/owa/?&Email=autodiscover/autodiscover.json%3F@abc.com [33m404[0m 0.123 ms - 169[0m
+[0mGET /ui/login.action [33m404[0m 0.325 ms - 154[0m
+[0mGET /secure/rest/applinks/1.0/manifest [33m404[0m 0.230 ms - 172[0m
+[0mGET /jira/rest/applinks/1.0/manifest [33m404[0m 0.306 ms - 170[0m
+[0mGET /confluence/rest/applinks/1.0/manifest [33m404[0m 0.183 ms - 176[0m
+[0mGET /bitbucket/rest/applinks/1.0/manifest [33m404[0m 0.216 ms - 175[0m
+[0mGET /bamboo/rest/applinks/1.0/manifest [33m404[0m 0.201 ms - 172[0m
+[0mGET /crowd/rest/applinks/1.0/manifest [33m404[0m 0.203 ms - 171[0m
+[0mGET / [32m200[0m 1.336 ms - 12[0m
+[0mGET / [32m200[0m 0.654 ms - 12[0m
+[0mGET /favicon.ico [33m404[0m 0.393 ms - 150[0m
+[0mGET / [32m200[0m 0.657 ms - 12[0m
+[0mGET /favicon.ico [33m404[0m 0.333 ms - 150[0m
+[0mGET / [32m200[0m 1.066 ms - 12[0m
+[0mGET / [32m200[0m 1.034 ms - 12[0m
+[0mGET / [32m200[0m 0.845 ms - 12[0m
+[0mGET / [32m200[0m 1.071 ms - 12[0m
+[0mGET / [32m200[0m 0.247 ms - 12[0m
+[0mGET /favicon.ico [33m404[0m 0.632 ms - 150[0m
+[0mHEAD / [32m200[0m 0.923 ms - 12[0m
+[0mGET /system_api.php [33m404[0m 0.396 ms - 153[0m
+[0mGET /c/version.js [33m404[0m 0.278 ms - 151[0m
+[0mGET /streaming/clients_live.php [33m404[0m 0.179 ms - 165[0m
+[0mGET /stalker_portal/c/version.js [33m404[0m 0.237 ms - 166[0m
+[0mGET /stream/live.php [33m404[0m 0.176 ms - 154[0m
+[0mGET /flu/403.html [33m404[0m 0.177 ms - 151[0m
+[0mGET / [32m200[0m 0.289 ms - 12[0m
+[0mGET / [32m200[0m 0.513 ms - 12[0m
+[0mGET / [32m200[0m 0.130 ms - 12[0m
+[0mGET / [32m200[0m 0.690 ms - 12[0m
+[0mGET / [32m200[0m 0.757 ms - 12[0m
+[0mGET / [32m200[0m 0.616 ms - 12[0m
+[0mGET / [32m200[0m 1.299 ms - 12[0m
+[0mGET / [32m200[0m 0.941 ms - 12[0m
+[0mGET / [32m200[0m 0.739 ms - 12[0m
+[0mGET /favicon.ico [33m404[0m 0.460 ms - 150[0m
+[0mGET / [32m200[0m 0.663 ms - 12[0m
+[0mGET / [32m200[0m 0.766 ms - 12[0m
+[0mGET /../../mnt/mtd/Config/Account1 [33m404[0m 0.550 ms - 168[0m
+[0mGET / [32m200[0m 0.936 ms - 12[0m
+[0mGET / [32m200[0m 0.322 ms - 12[0m
+[0mGET / [32m200[0m 1.107 ms - 12[0m
+[0mGET /favicon.ico [33m404[0m 0.491 ms - 150[0m
+[0mGET / [32m200[0m 0.858 ms - 12[0m
+[0mGET / [32m200[0m 0.258 ms - 12[0m
+[0mGET /favicon.ico [33m404[0m 0.441 ms - 150[0m
+[0mGET / [32m200[0m 1.444 ms - 12[0m
+[0mGET / [32m200[0m 1.163 ms - 12[0m
+[0mGET / [32m200[0m 0.344 ms - 12[0m
+[0mGET /favicon.ico [33m404[0m 0.388 ms - 150[0m
+[0mGET / [32m200[0m 1.327 ms - 12[0m
+[0mGET / [32m200[0m 1.274 ms - 12[0m
+[0mGET / [32m200[0m 0.321 ms - 12[0m
+[0mGET / [32m200[0m 0.626 ms - 12[0m
+[0mGET / [32m200[0m 1.332 ms - 12[0m
+[0mGET / [32m200[0m 1.151 ms - 12[0m
+[0mGET / [32m200[0m 1.022 ms - 12[0m
+[0mGET /favicon.ico [33m404[0m 0.410 ms - 150[0m
+[0mGET / [32m200[0m 0.764 ms - 12[0m
+[0mHEAD / [32m200[0m 0.582 ms - 12[0m
+[0mGET /system_api.php [33m404[0m 0.326 ms - 153[0m
+[0mGET /c/version.js [33m404[0m 0.186 ms - 151[0m
+[0mGET /streaming/clients_live.php [33m404[0m 0.179 ms - 165[0m
+[0mGET /stalker_portal/c/version.js [33m404[0m 0.177 ms - 166[0m
+[0mGET /stream/live.php [33m404[0m 0.183 ms - 154[0m
+[0mGET /flu/403.html [33m404[0m 0.173 ms - 151[0m
+[0mGET / [32m200[0m 0.233 ms - 12[0m
+[0mGET / [32m200[0m 0.756 ms - 12[0m
+[0mGET / [32m200[0m 0.784 ms - 12[0m
+[0mGET / [32m200[0m 0.596 ms - 12[0m
+[0mGET / [32m200[0m 0.534 ms - 12[0m
+[0mGET / [32m200[0m 0.455 ms - 12[0m
+[0mGET / [32m200[0m 1.104 ms - 12[0m
+[0mGET / [32m200[0m 0.338 ms - 12[0m
+[0mGET /favicon.ico [33m404[0m 0.729 ms - 150[0m
+[0mGET / [32m200[0m 1.213 ms - 12[0m
+[0mGET / [32m200[0m 1.183 ms - 12[0m
+[0mGET / [32m200[0m 2.737 ms - 12[0m
+[0mGET / [32m200[0m 0.638 ms - 12[0m
+[0mGET /nmaplowercheck1667858264 [33m404[0m 0.367 ms - 163[0m
+[0mGET / [32m200[0m 0.243 ms - 12[0m
+[0mPOST /sdk [33m404[0m 0.273 ms - 143[0m
+[0mGET /?=PHPE9568F36-D428-11d2-A769-00AA001ACF42 [32m200[0m 0.143 ms - 12[0m
+[0mGET /pools/default/buckets [33m404[0m 0.208 ms - 160[0m
+[0mGET /favicon.ico [33m404[0m 0.153 ms - 150[0m
+[0mGET /?=PHPB8B5F2A0-3C92-11d3-A3A9-4C7B08C10000 [32m200[0m 0.149 ms - 12[0m
+[0mGET /HNAP1 [33m404[0m 0.217 ms - 144[0m
+[0mGET /Portal/Portal.mwsl [33m404[0m 0.200 ms - 157[0m
+[0mGET / [32m200[0m 0.175 ms - 12[0m
+[0mGET /pools [33m404[0m 0.265 ms - 144[0m
+[0mGET /yB1p [33m404[0m 0.268 ms - 143[0m
+[0mGET /docs/cplugError.html/ [33m404[0m 0.263 ms - 160[0m
+[0mGET /.git/HEAD [33m404[0m 0.203 ms - 148[0m
+[0mHEAD / [32m200[0m 0.209 ms - 12[0m
+[0mGET /CSS/Miniweb.css [33m404[0m 0.156 ms - 154[0m
+[0mGET /Portal0000.htm [33m404[0m 0.124 ms - 153[0m
+[0mGET /localstart.pl [33m404[0m 0.239 ms - 152[0m
+[0mGET / [32m200[0m 0.164 ms - 12[0m
+[0mGET /__Additional [33m404[0m 0.229 ms - 151[0m
+[0mGET /index.cfm [33m404[0m 0.200 ms - 148[0m
+[0mGET / [32m200[0m 0.184 ms - 12[0m
+[0mGET /start.cgi [33m404[0m 0.211 ms - 148[0m
+[0mGET /base.html [33m404[0m 0.215 ms - 148[0m
+[0mGET /default.pl [33m404[0m 0.215 ms - 149[0m
+[0mGET /start.jhtml [33m404[0m 0.213 ms - 150[0m
+[0mGET /localstart.cfm [33m404[0m 0.209 ms - 153[0m
+[0mGET /index.html [33m404[0m 0.207 ms - 149[0m
+[0mGET /inicio.asp [33m404[0m 1.282 ms - 149[0m
+[0mGET /robots.txt [33m404[0m 0.200 ms - 149[0m
+[0mGET /index.asp [33m404[0m 0.240 ms - 148[0m
+[0mGET /main.aspx [33m404[0m 0.215 ms - 148[0m
+[0mGET /menu.asp [33m404[0m 0.202 ms - 147[0m
+[0mGET /indice.cgi [33m404[0m 0.223 ms - 149[0m
+[0mGET /indice.cfm [33m404[0m 0.226 ms - 149[0m
+[0mGET /readme.txt [33m404[0m 0.206 ms - 149[0m
+[0mGET /base.pl [33m404[0m 0.201 ms - 146[0m
+[0mGET /index.aspx [33m404[0m 0.207 ms - 149[0m
+[0mGET /admin.pl [33m404[0m 0.210 ms - 147[0m
+[0mGET /default.php [33m404[0m 0.205 ms - 150[0m
+[0mGET /indice.shtml [33m404[0m 0.290 ms - 151[0m
+[0mGET /admin.aspx [33m404[0m 0.205 ms - 149[0m
+[0mGET /base.jsa [33m404[0m 0.247 ms - 147[0m
+[0mGET /base.jsp [33m404[0m 0.265 ms - 147[0m
+[0mGET /admin.jsa [33m404[0m 4.315 ms - 148[0m
+[0mGET /default.html [33m404[0m 0.202 ms - 151[0m
+[0mGET /index.jsa [33m404[0m 0.196 ms - 148[0m
+[0mGET /admin.jhtml [33m404[0m 0.191 ms - 150[0m
+[0mGET /admin.php [33m404[0m 0.230 ms - 148[0m
+[0mGET / [32m200[0m 0.308 ms - 12[0m
+[0mGET /admin.cgi [33m404[0m 0.193 ms - 148[0m
+[0mGET /admin.cfm [33m404[0m 0.265 ms - 148[0m
+[0mGET /admin.html [33m404[0m 0.188 ms - 149[0m
+[0mGET /menu.pl [33m404[0m 0.193 ms - 146[0m
+[0mGET /inicio.php [33m404[0m 0.214 ms - 149[0m
+[0mGET /admin.asp [33m404[0m 0.190 ms - 148[0m
+[0mGET /localstart.jsp [33m404[0m 0.196 ms - 153[0m
+[0mGET /base.shtml [33m404[0m 0.193 ms - 149[0m
+[0mGET /admin.shtml [33m404[0m 0.224 ms - 150[0m
+[0mGET /localstart.jhtml [33m404[0m 0.196 ms - 155[0m
+[0mGET /default.shtml [33m404[0m 0.248 ms - 152[0m
+[0mGET /menu.jsa [33m404[0m 0.190 ms - 147[0m
+[0mGET /default.cgi [33m404[0m 0.193 ms - 150[0m
+[0mGET /start.aspx [33m404[0m 0.189 ms - 149[0m
+[0mGET /admin.jsp [33m404[0m 0.187 ms - 148[0m
+[0mGET /default.jsa [33m404[0m 0.193 ms - 150[0m
+[0mGET /menu.aspx [33m404[0m 0.193 ms - 148[0m
+[0mGET /inicio.cfm [33m404[0m 0.184 ms - 149[0m
+[0mGET /base.jhtml [33m404[0m 0.201 ms - 149[0m
+[0mGET /home.aspx [33m404[0m 0.229 ms - 148[0m
+[0mGET /home.jhtml [33m404[0m 0.182 ms - 149[0m
+[0mGET /base.inc [33m404[0m 0.253 ms - 147[0m
+[0mGET /home.jsa [33m404[0m 0.204 ms - 147[0m
+[0mGET /base.cgi [33m404[0m 0.265 ms - 147[0m
+[0mGET /indice.php [33m404[0m 0.204 ms - 149[0m
+[0mGET /main.jhtml [33m404[0m 0.192 ms - 149[0m
+[0mGET /base.cfm [33m404[0m 0.190 ms - 147[0m
+[0mGET /menu.php [33m404[0m 0.259 ms - 147[0m
+[0mGET /home.asp [33m404[0m 0.217 ms - 147[0m
+[0mGET /index.jsp [33m404[0m 0.192 ms - 148[0m
+[0mGET /default.aspx [33m404[0m 0.193 ms - 151[0m
+[0mGET /index.jhtml [33m404[0m 0.193 ms - 150[0m
+[0mGET /main.jsa [33m404[0m 0.224 ms - 147[0m
+[0mGET /base.aspx [33m404[0m 0.190 ms - 148[0m
+[0mGET /menu.cgi [33m404[0m 0.214 ms - 147[0m
+[0mGET /home.pl [33m404[0m 0.239 ms - 146[0m
+[0mGET /localstart.php [33m404[0m 0.195 ms - 153[0m
+[0mGET /start.html [33m404[0m 0.219 ms - 149[0m
+[0mGET /base.asp [33m404[0m 0.196 ms - 147[0m
+[0mGET /index.cgi [33m404[0m 0.192 ms - 148[0m
+[0mGET /indice.jsp [33m404[0m 0.189 ms - 149[0m
+[0mGET /inicio.jhtml [33m404[0m 0.193 ms - 151[0m
+[0mGET /localstart.aspx [33m404[0m 0.219 ms - 154[0m
+[0mGET /indice.jsa [33m404[0m 0.186 ms - 149[0m
+[0mGET /home.shtml [33m404[0m 0.238 ms - 149[0m
+[0mGET /start.jsa [33m404[0m 0.190 ms - 148[0m
+[0mGET /home.cgi [33m404[0m 0.196 ms - 147[0m
+[0mGET /indice.jhtml [33m404[0m 0.193 ms - 151[0m
+[0mGET /inicio.jsp [33m404[0m 0.184 ms - 149[0m
+[0mGET /default.cfm [33m404[0m 0.197 ms - 150[0m
+[0mGET /indice.aspx [33m404[0m 0.209 ms - 150[0m
+[0mGET /default.jhtml [33m404[0m 0.189 ms - 152[0m
+[0mGET /localstart.shtml [33m404[0m 0.250 ms - 155[0m
+[0mGET /inicio.aspx [33m404[0m 0.197 ms - 150[0m
+[0mGET /menu.shtml [33m404[0m 0.195 ms - 149[0m
+[0mGET /inicio.pl [33m404[0m 0.173 ms - 148[0m
+[0mGET /index.shtml [33m404[0m 0.180 ms - 150[0m
+[0mGET /indice.html [33m404[0m 0.277 ms - 150[0m
+[0mGET /inicio.jsa [33m404[0m 0.245 ms - 149[0m
+[0mGET /menu.cfm [33m404[0m 0.228 ms - 147[0m
+[0mGET /main.php [33m404[0m 0.210 ms - 147[0m
+[0mGET /inicio.html [33m404[0m 0.187 ms - 150[0m
+[0mGET /menu.jhtml [33m404[0m 0.202 ms - 149[0m
+[0mGET /indice.pl [33m404[0m 0.181 ms - 148[0m
+[0mGET /inicio.shtml [33m404[0m 0.183 ms - 151[0m
+[0mGET /start.shtml [33m404[0m 0.209 ms - 150[0m
+[0mGET /localstart.html [33m404[0m 0.187 ms - 154[0m
+[0mGET /localstart.cgi [33m404[0m 0.176 ms - 153[0m
+[0mGET /localstart.asp [33m404[0m 0.183 ms - 153[0m
+[0mGET /localstart.jsa [33m404[0m 0.220 ms - 153[0m
+[0mGET /start.pl [33m404[0m 0.180 ms - 147[0m
+[0mGET /start.php [33m404[0m 0.182 ms - 148[0m
+[0mGET /index.pl [33m404[0m 0.185 ms - 147[0m
+[0mGET /home.jsp [33m404[0m 0.228 ms - 147[0m
+[0mGET /main.shtml [33m404[0m 0.179 ms - 149[0m
+[0mGET /default.jsp [33m404[0m 0.188 ms - 150[0m
+[0mGET /home.php [33m404[0m 0.178 ms - 147[0m
+[0mGET /main.cfm [33m404[0m 0.181 ms - 147[0m
+[0mGET /start.cfm [33m404[0m 0.210 ms - 148[0m
+[0mGET /start.asp [33m404[0m 0.238 ms - 148[0m
+[0mGET /index.php [33m404[0m 0.184 ms - 148[0m
+[0mGET /default.asp [33m404[0m 0.228 ms - 150[0m
+[0mGET /home.cfm [33m404[0m 0.352 ms - 147[0m
+[0mGET /inicio.cgi [33m404[0m 0.189 ms - 149[0m
+[0mGET /indice.asp [33m404[0m 0.187 ms - 149[0m
+[0mGET /main.pl [33m404[0m 0.185 ms - 146[0m
+[0mGET /menu.jsp [33m404[0m 0.180 ms - 147[0m
+[0mGET /main.html [33m404[0m 0.179 ms - 148[0m
+[0mGET /main.jsp [33m404[0m 0.187 ms - 147[0m
+[0mGET /main.cgi [33m404[0m 0.195 ms - 147[0m
+[0mGET /home.html [33m404[0m 0.201 ms - 148[0m
+[0mGET /base.php [33m404[0m 0.182 ms - 147[0m
+[0mGET /main.asp [33m404[0m 0.214 ms - 147[0m
+[0mGET /menu.html [33m404[0m 0.195 ms - 148[0m
+[0mGET /start.jsp [33m404[0m 0.187 ms - 148[0m
+[0mGET / [32m200[0m 0.199 ms - 12[0m
+[0mGET / [32m200[0m 0.227 ms - 12[0m
+[0mGET http://proxy.korsangazi.com:80/bc61121a8191137a1f6357ea09cea3d3.html [33m404[0m 0.564 ms - 176[0m
+[0mGET / [32m200[0m 0.540 ms - 12[0m
+[0mGET / [32m200[0m 0.599 ms - 12[0m
+[0mGET / [32m200[0m 0.551 ms - 12[0m
+[0mGET / [32m200[0m 1.297 ms - 12[0m
+[0mGET / [32m200[0m 1.160 ms - 12[0m
+[0mGET / [32m200[0m 1.493 ms - 12[0m
+[0mGET / [32m200[0m 0.252 ms - 12[0m
+[0mGET /favicon.ico [33m404[0m 0.803 ms - 150[0m
+[0mGET / [32m200[0m 0.919 ms - 12[0m
+[0mGET / [32m200[0m 5.844 ms - 12[0m
+[0mGET /robots.txt [33m404[0m 0.710 ms - 149[0m
+[0mGET /sitemap.xml [33m404[0m 0.217 ms - 150[0m
+[0mHEAD / [32m200[0m 1.294 ms - 12[0m
+[0mGET /system_api.php [33m404[0m 2.410 ms - 153[0m
+[0mGET /c/version.js [33m404[0m 0.381 ms - 151[0m
+[0mGET /streaming/clients_live.php [33m404[0m 0.190 ms - 165[0m
+[0mGET /stalker_portal/c/version.js [33m404[0m 0.181 ms - 166[0m
+[0mGET /stream/live.php [33m404[0m 0.195 ms - 154[0m
+[0mGET /flu/403.html [33m404[0m 0.190 ms - 151[0m
+[0mGET / [32m200[0m 0.309 ms - 12[0m
+[0mGET / [32m200[0m 1.134 ms - 12[0m
+[0mGET / [32m200[0m 0.576 ms - 12[0m
+[0mGET / [32m200[0m 5.379 ms - 12[0m
+[0mGET / [32m200[0m 0.653 ms - 12[0m
+[0mPOST /casa/nodes/thumbprints [33m404[0m 0.175 ms - 162[0m
+[0mGET /rest/applinks/1.0/manifest [33m404[0m 0.197 ms - 165[0m
+[0mGET /autodiscover/autodiscover.json?@abc.com/owa/?&Email=autodiscover/autodiscover.json%3F@abc.com [33m404[0m 0.148 ms - 169[0m
+[0mPOST /ui/h5-vsan/rest/proxy/service/com.vmware.vsan.client.services.capability.VsanCapabilityProvider/getClusterCapabilityData [33m404[0m 0.071 ms - 260[0m
+[0mGET /dana-na/../dana/html5acc/guacamole/../../../../../../etc/passwd?/dana/html5acc/guacamole/ [33m404[0m 0.120 ms - 202[0m
+[0mGET /logon/LogonPoint/tmindex.html [33m404[0m 0.112 ms - 168[0m
+[0mPUT /api/v2/cmdb/system/admin/admin [33m404[0m 0.145 ms - 169[0m
+[0mGET /ui/login.action [33m404[0m 0.182 ms - 154[0m
+[0mGET /secure/rest/applinks/1.0/manifest [33m404[0m 0.122 ms - 172[0m
+[0mGET /jira/rest/applinks/1.0/manifest [33m404[0m 0.172 ms - 170[0m
+[0mGET /confluence/rest/applinks/1.0/manifest [33m404[0m 0.172 ms - 176[0m
+[0mGET /bitbucket/rest/applinks/1.0/manifest [33m404[0m 0.177 ms - 175[0m
+[0mGET /bamboo/rest/applinks/1.0/manifest [33m404[0m 0.162 ms - 172[0m
+[0mGET /crowd/rest/applinks/1.0/manifest [33m404[0m 0.180 ms - 171[0m
+[0mGET / [32m200[0m 0.600 ms - 12[0m
+[0mGET / [32m200[0m 0.615 ms - 12[0m
+[0mGET /api/v1/users/search [33m404[0m 0.655 ms - 158[0m
+[0mGET / [32m200[0m 0.593 ms - 12[0m
+[0mGET / [32m200[0m 0.791 ms - 12[0m
+[0mGET /favicon.ico [33m404[0m 0.388 ms - 150[0m
+[0mGET / [32m200[0m 0.628 ms - 12[0m
+[0mGET / [32m200[0m 0.656 ms - 12[0m
+[0mGET /favicon.ico [33m404[0m 0.405 ms - 150[0m
+[0mGET / [32m200[0m 1.439 ms - 12[0m
+[0mGET /favicon.ico [33m404[0m 0.564 ms - 150[0m
+[0mGET / [32m200[0m 0.849 ms - 12[0m
+[0mGET / [32m200[0m 0.604 ms - 12[0m
+[0mGET / [32m200[0m 0.558 ms - 12[0m
+[0mGET /favicon.ico [33m404[0m 0.440 ms - 150[0m
+[0mGET / [32m200[0m 0.644 ms - 12[0m
+[0mGET / [32m200[0m 0.713 ms - 12[0m
+[0mGET /favicon.ico [33m404[0m 0.320 ms - 150[0m
+[0mGET / [32m200[0m 0.601 ms - 12[0m
+[0mGET / [32m200[0m 0.601 ms - 12[0m
+[0mGET / [32m200[0m 0.696 ms - 12[0m
+[0mGET / [32m200[0m 0.677 ms - 12[0m
+[0mGET / [32m200[0m 0.697 ms - 12[0m
+stdout: -------------------INFORMATION-------------------
+New Plugin is: order-booking415.zip
+Old Plugin is: order-booking
+Log File: /home/bash/bash/src/log.txt
+Input File: input.csv
+-------------------------------------------------
+ShopName,Host,Username,Password,Path
+"Sushi For Life",access886979932.webspace-data.io,u106095550,**********,/kunden/homepages/21/d886979932/htdocs/01_Fullshops/Sushi-For-Life-Berlin_Full-Shop
+Record is : ShopName
+Record is : "Sushi For Life"
+  -------------------UPDATING-------------------
+  Shop name: "Sushi For Life"
+  Host: access886979932.webspace-data.io
+  Username: u106095550
+  Password: ********
+  Path: /kunden/homepages/21/d886979932/htdocs/01_Fullshops/Sushi-For-Life-Berlin_Full-Shop
+      | ***** Deactivating plugin "order-booking" ...
+      | ***** Plugin "order-booking" has been deactivated.
+      | ***** Deleting plugin "order-booking" ...
+      | ***** Plugin "order-booking" has been removed.
+      | ***** Uploading file "order-booking415.zip.zip" ...
+      | ***** File "order-booking415.zip" has been uploaded.
+      | ***** File "order-booking415.zip" has been unziped.
+      | ***** Activating plugin "order-booking" ...
+      | ***** [ERROR] Cannot activate plugin "order-booking".
+      | ***** File "order-booking415.zip" has been deleted.
+      | ***** [FAILED] Cannot update shop ""Sushi For Life"". See above logs to fix errors (ERROR)!
+-------------------------------------------------
+---------------DONE------------------
+UPDATED 0/1 shops (1 shops FAILED)
+Duration time: 4 seconds.
+
+stderr: Warning: The 'order-booking' plugin could not be found.
+Error: No plugins activated.
+
+[0mPOST /upload-plugin [32m200[0m 3871.922 ms - 2710[0m
+[0mGET / [32m200[0m 0.543 ms - 12[0m
+[0mGET /favicon.ico [33m404[0m 0.611 ms - 150[0m
+[0mGET / [32m200[0m 0.703 ms - 12[0m
+[0mGET / [32m200[0m 0.604 ms - 12[0m
+[0mGET / [32m200[0m 0.355 ms - 12[0m
+[0mGET / [32m200[0m 1.360 ms - 12[0m
+[0mHEAD / [32m200[0m 1.192 ms - 12[0m
+[0mGET /system_api.php [33m404[0m 0.608 ms - 153[0m
+[0mGET /c/version.js [33m404[0m 0.269 ms - 151[0m
+[0mGET /streaming/clients_live.php [33m404[0m 0.179 ms - 165[0m
+[0mGET /stalker_portal/c/version.js [33m404[0m 0.194 ms - 166[0m
+[0mGET /stream/live.php [33m404[0m 0.249 ms - 154[0m
+[0mGET /flu/403.html [33m404[0m 0.175 ms - 151[0m
+[0mGET / [32m200[0m 0.312 ms - 12[0m
+[0mGET / [32m200[0m 0.676 ms - 12[0m
+[0mGET / [32m200[0m 0.211 ms - 12[0m
+[0mGET / [32m200[0m 0.442 ms - 12[0m
+[0mGET /favicon.ico [33m404[0m 0.387 ms - 150[0m
+[0mGET / [32m200[0m 0.321 ms - 12[0m
+[0mGET / [32m200[0m 0.578 ms - 12[0m
+[0mGET / [32m200[0m 0.254 ms - 12[0m
+[0mGET / [32m200[0m 0.245 ms - 12[0m
+[0mGET /Portal0000.htm [33m404[0m 0.351 ms - 153[0m
+[0mGET /inicio.asp [33m404[0m 0.129 ms - 149[0m
+[0mGET /9ukC [33m404[0m 0.103 ms - 143[0m
+[0mGET /nmaplowercheck1668793078 [33m404[0m 0.103 ms - 163[0m
+[0mPOST /sdk [33m404[0m 0.327 ms - 143[0m
+[0mGET /.git/HEAD [33m404[0m 0.118 ms - 148[0m
+[0mGET /Portal/Portal.mwsl [33m404[0m 0.106 ms - 157[0m
+[0mGET /__Additional [33m404[0m 0.205 ms - 151[0m
+[0mGET /docs/cplugError.html/ [33m404[0m 0.119 ms - 160[0m
+[0mGET /menu.cfm [33m404[0m 0.101 ms - 147[0m
+[0mGET /pools/default/buckets [33m404[0m 0.112 ms - 160[0m
+[0mHEAD / [32m200[0m 0.285 ms - 12[0m
+[0mGET /CSS/Miniweb.css [33m404[0m 0.139 ms - 154[0m
+[0mGET /HNAP1 [33m404[0m 0.113 ms - 144[0m
+[0mGET / [32m200[0m 0.111 ms - 12[0m
+[0mGET /home.php [33m404[0m 0.238 ms - 147[0m
+[0mGET /pools [33m404[0m 0.142 ms - 144[0m
+[0mGET / [32m200[0m 0.187 ms - 12[0m
+[0mGET /default.jhtml [33m404[0m 0.243 ms - 152[0m
+[0mGET /?=PHPE9568F36-D428-11d2-A769-00AA001ACF42 [32m200[0m 0.154 ms - 12[0m
+[0mGET / [32m200[0m 0.130 ms - 12[0m
+[0mGET /menu.pl [33m404[0m 0.188 ms - 146[0m
+[0mGET /?=PHPB8B5F2A0-3C92-11d3-A3A9-4C7B08C10000 [32m200[0m 0.184 ms - 12[0m
+[0mGET / [32m200[0m 0.200 ms - 12[0m
+[0mGET /start.html [33m404[0m 0.189 ms - 149[0m
+[0mGET /favicon.ico [33m404[0m 1.246 ms - 150[0m
+[0mGET /menu.cgi [33m404[0m 0.118 ms - 147[0m
+[0mGET /inicio.jhtml [33m404[0m 0.302 ms - 151[0m
+[0mGET /readme.txt [33m404[0m 0.197 ms - 149[0m
+[0mGET /admin.shtml [33m404[0m 0.292 ms - 150[0m
+[0mGET /base.shtml [33m404[0m 1.290 ms - 149[0m
+[0mGET /localstart.cfm [33m404[0m 0.200 ms - 153[0m
+[0mGET /default.cgi [33m404[0m 0.202 ms - 150[0m
+[0mGET /admin.php [33m404[0m 0.190 ms - 148[0m
+[0mGET /admin.jsp [33m404[0m 0.194 ms - 148[0m
+[0mGET /menu.php [33m404[0m 0.190 ms - 147[0m
+[0mGET /default.pl [33m404[0m 0.191 ms - 149[0m
+[0mGET /admin.jsa [33m404[0m 0.191 ms - 148[0m
+[0mGET /admin.jhtml [33m404[0m 0.189 ms - 150[0m
+[0mGET /admin.html [33m404[0m 0.200 ms - 149[0m
+[0mGET /inicio.cfm [33m404[0m 0.198 ms - 149[0m
+[0mGET /start.jsp [33m404[0m 0.186 ms - 148[0m
+[0mGET /admin.cgi [33m404[0m 0.206 ms - 148[0m
+[0mGET /admin.cfm [33m404[0m 0.181 ms - 148[0m
+[0mGET /base.jsa [33m404[0m 0.200 ms - 147[0m
+[0mGET /default.aspx [33m404[0m 0.193 ms - 151[0m
+[0mGET /home.jhtml [33m404[0m 0.185 ms - 149[0m
+[0mGET /indice.html [33m404[0m 0.177 ms - 150[0m
+[0mGET /main.shtml [33m404[0m 0.195 ms - 149[0m
+[0mGET /home.pl [33m404[0m 0.211 ms - 146[0m
+[0mGET /base.pl [33m404[0m 0.262 ms - 146[0m
+[0mGET /main.html [33m404[0m 0.530 ms - 148[0m
+[0mGET /default.shtml [33m404[0m 0.212 ms - 152[0m
+[0mGET /main.jsp [33m404[0m 0.189 ms - 147[0m
+[0mGET /start.jsa [33m404[0m 0.190 ms - 148[0m
+[0mGET /menu.jhtml [33m404[0m 0.189 ms - 149[0m
+[0mGET /default.php [33m404[0m 0.184 ms - 150[0m
+[0mGET /base.php [33m404[0m 0.189 ms - 147[0m
+[0mGET /base.jsp [33m404[0m 0.191 ms - 147[0m
+[0mGET /base.jhtml [33m404[0m 0.169 ms - 149[0m
+[0mGET /base.inc [33m404[0m 0.131 ms - 147[0m
+[0mGET /base.html [33m404[0m 0.119 ms - 148[0m
+[0mGET /default.jsp [33m404[0m 0.113 ms - 150[0m
+[0mGET /start.php [33m404[0m 0.114 ms - 148[0m
+[0mGET /start.cgi [33m404[0m 0.119 ms - 148[0m
+[0mGET /home.jsa [33m404[0m 0.120 ms - 147[0m
+[0mGET /default.asp [33m404[0m 0.116 ms - 150[0m
+[0mGET /home.aspx [33m404[0m 0.132 ms - 148[0m
+[0mGET /base.cgi [33m404[0m 0.422 ms - 147[0m
+[0mGET /inicio.html [33m404[0m 0.112 ms - 150[0m
+[0mGET /base.aspx [33m404[0m 1.116 ms - 148[0m
+[0mGET /inicio.jsp [33m404[0m 0.109 ms - 149[0m
+[0mGET /base.asp [33m404[0m 0.112 ms - 147[0m
+[0mGET /main.aspx [33m404[0m 0.111 ms - 148[0m
+[0mGET /main.pl [33m404[0m 0.116 ms - 146[0m
+[0mGET /localstart.jsp [33m404[0m 0.119 ms - 153[0m
+[0mGET /indice.pl [33m404[0m 0.111 ms - 148[0m
+[0mGET /index.jhtml [33m404[0m 0.112 ms - 150[0m
+[0mGET /menu.jsa [33m404[0m 0.108 ms - 147[0m
+[0mGET /indice.asp [33m404[0m 0.106 ms - 149[0m
+[0mGET /default.cfm [33m404[0m 0.102 ms - 150[0m
+[0mGET /index.php [33m404[0m 0.104 ms - 148[0m
+[0mGET /index.jsp [33m404[0m 0.101 ms - 148[0m
+[0mGET /index.shtml [33m404[0m 0.102 ms - 150[0m
+[0mGET /indice.jsa [33m404[0m 0.102 ms - 149[0m
+[0mGET /indice.jhtml [33m404[0m 0.112 ms - 151[0m
+[0mGET /indice.cgi [33m404[0m 0.122 ms - 149[0m
+[0mGET /index.pl [33m404[0m 0.130 ms - 147[0m
+[0mGET /index.cfm [33m404[0m 0.131 ms - 148[0m
+[0mGET /main.cgi [33m404[0m 0.125 ms - 147[0m
+[0mGET /localstart.cgi [33m404[0m 0.125 ms - 153[0m
+[0mGET /indice.jsp [33m404[0m 0.124 ms - 149[0m
+[0mGET /indice.aspx [33m404[0m 0.117 ms - 150[0m
+[0mGET /indice.php [33m404[0m 0.113 ms - 149[0m
+[0mGET /menu.aspx [33m404[0m 0.131 ms - 148[0m
+[0mGET /index.aspx [33m404[0m 0.152 ms - 149[0m
+[0mGET /inicio.aspx [33m404[0m 0.131 ms - 150[0m
+[0mGET /inicio.pl [33m404[0m 0.115 ms - 148[0m
+[0mGET /default.html [33m404[0m 0.110 ms - 151[0m
+[0mGET /start.asp [33m404[0m 0.115 ms - 148[0m
+[0mGET /localstart.asp [33m404[0m 0.112 ms - 153[0m
+[0mGET /home.html [33m404[0m 0.125 ms - 148[0m
+[0mGET /inicio.jsa [33m404[0m 0.116 ms - 149[0m
+[0mGET /menu.html [33m404[0m 0.159 ms - 148[0m
+[0mGET /menu.asp [33m404[0m 0.109 ms - 147[0m
+[0mGET /inicio.php [33m404[0m 0.112 ms - 149[0m
+[0mGET /index.asp [33m404[0m 0.109 ms - 148[0m
+[0mGET /localstart.jsa [33m404[0m 0.114 ms - 153[0m
+[0mGET /start.cfm [33m404[0m 0.132 ms - 148[0m
+[0mGET /home.cgi [33m404[0m 0.111 ms - 147[0m
+[0mGET /menu.jsp [33m404[0m 0.109 ms - 147[0m
+[0mGET /start.shtml [33m404[0m 0.112 ms - 150[0m
+[0mGET /localstart.shtml [33m404[0m 0.342 ms - 155[0m
+[0mGET /localstart.pl [33m404[0m 0.128 ms - 152[0m
+[0mGET /main.jsa [33m404[0m 0.160 ms - 147[0m
+[0mGET /home.asp [33m404[0m 0.118 ms - 147[0m
+[0mGET /index.jsa [33m404[0m 0.113 ms - 148[0m
+[0mGET /localstart.php [33m404[0m 0.119 ms - 153[0m
+[0mGET /localstart.jhtml [33m404[0m 0.114 ms - 155[0m
+[0mGET /localstart.html [33m404[0m 0.119 ms - 154[0m
+[0mGET /admin.pl [33m404[0m 0.119 ms - 147[0m
+[0mGET /robots.txt [33m404[0m 0.115 ms - 149[0m
+[0mGET /start.pl [33m404[0m 0.110 ms - 147[0m
+[0mGET /index.cgi [33m404[0m 0.155 ms - 148[0m
+[0mGET /index.html [33m404[0m 0.149 ms - 149[0m
+[0mGET /inicio.shtml [33m404[0m 0.136 ms - 151[0m
+[0mGET /admin.asp [33m404[0m 0.147 ms - 148[0m
+[0mGET /start.aspx [33m404[0m 0.156 ms - 149[0m
+[0mGET /start.jhtml [33m404[0m 0.146 ms - 150[0m
+[0mGET /localstart.aspx [33m404[0m 0.143 ms - 154[0m
+[0mGET /default.jsa [33m404[0m 0.134 ms - 150[0m
+[0mGET /base.cfm [33m404[0m 0.146 ms - 147[0m
+[0mGET /inicio.cgi [33m404[0m 0.120 ms - 149[0m
+[0mGET /home.jsp [33m404[0m 0.121 ms - 147[0m
+[0mGET /home.cfm [33m404[0m 0.111 ms - 147[0m
+[0mGET /admin.aspx [33m404[0m 0.114 ms - 149[0m
+[0mGET /main.php [33m404[0m 0.121 ms - 147[0m
+[0mGET /indice.shtml [33m404[0m 0.124 ms - 151[0m
+[0mGET /menu.shtml [33m404[0m 0.139 ms - 149[0m
+[0mGET /main.asp [33m404[0m 0.150 ms - 147[0m
+[0mGET /main.jhtml [33m404[0m 0.117 ms - 149[0m
+[0mGET /indice.cfm [33m404[0m 0.114 ms - 149[0m
+[0mGET /home.shtml [33m404[0m 0.122 ms - 149[0m
+[0mGET /main.cfm [33m404[0m 0.121 ms - 147[0m
+[0mGET / [32m200[0m 0.199 ms - 12[0m
+[0mGET / [32m200[0m 0.202 ms - 12[0m
+[0mGET / [32m200[0m 0.410 ms - 12[0m
+[0mGET / [32m200[0m 0.343 ms - 12[0m
+[0mGET / [32m200[0m 1.245 ms - 12[0m
+[0mGET / [32m200[0m 0.229 ms - 12[0m
+[0mGET /favicon.ico [33m404[0m 0.665 ms - 150[0m
+[0mGET / [32m200[0m 0.416 ms - 12[0m
+[0mGET / [32m200[0m 0.395 ms - 12[0m
+[0mGET / [32m200[0m 0.424 ms - 12[0m
+[0mGET / [32m200[0m 0.273 ms - 12[0m
+[0mGET /robots.txt [33m404[0m 0.404 ms - 149[0m
+[0mGET / [32m200[0m 0.275 ms - 12[0m
+[0mGET / [32m200[0m 0.391 ms - 12[0m
+[0mGET /favicon.ico [33m404[0m 0.362 ms - 150[0m
+[0mGET / [32m200[0m 0.389 ms - 12[0m
+[0mGET / [32m200[0m 0.329 ms - 12[0m
+[0mGET / [32m200[0m 0.274 ms - 12[0m
+[0mGET / [32m200[0m 1.418 ms - 12[0m
+[0mGET / [32m200[0m 0.331 ms - 12[0m
+[0mGET / [32m200[0m 0.317 ms - 12[0m
+[0mGET /admin/index.html [33m404[0m 0.533 ms - 155[0m
+[0mGET /index.html [33m404[0m 0.325 ms - 149[0m
+[0mGET / [32m200[0m 1.212 ms - 12[0m
+[0mGET /favicon.ico [33m404[0m 0.528 ms - 150[0m
+[0mHEAD / [32m200[0m 12.088 ms - 12[0m
+[0mGET /system_api.php [33m404[0m 0.380 ms - 153[0m
+[0mGET /c/version.js [33m404[0m 0.216 ms - 151[0m
+[0mGET /streaming/clients_live.php [33m404[0m 0.220 ms - 165[0m
+[0mGET /stalker_portal/c/version.js [33m404[0m 0.172 ms - 166[0m
+[0mGET /stream/live.php [33m404[0m 0.182 ms - 154[0m
+[0mGET /flu/403.html [33m404[0m 0.244 ms - 151[0m
+[0mGET / [32m200[0m 0.221 ms - 12[0m
+[0mGET https://www.google.com/recaptcha/api2/anchor?ar=1&k=6Le-wvkSAAAAAPBMRTvw0Q4Muexq9bi0DJwx_mJ-&co=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbTo0NDM.&hl=en&v=mhgGrlTs_PbFQOW4ejlxlxZn&size=normal&cb=5onchnjl84i3 [33m404[0m 0.581 ms - 160[0m
+[0mGET / [32m200[0m 0.861 ms - 12[0m
+[0mGET / [32m200[0m 0.548 ms - 12[0m
+[0mGET / [32m200[0m 0.579 ms - 12[0m
+[0mGET / [32m200[0m 0.190 ms - 12[0m
+[0mGET /Portal/Portal.mwsl [33m404[0m 0.376 ms - 157[0m
+[0mGET /Ntd6 [33m404[0m 0.142 ms - 143[0m
+[0mGET /?=PHPE9568F36-D428-11d2-A769-00AA001ACF42 [32m200[0m 0.135 ms - 12[0m
+[0mGET /nmaplowercheck1669349722 [33m404[0m 0.121 ms - 163[0m
+[0mGET /HNAP1 [33m404[0m 0.225 ms - 144[0m
+[0mGET /docs/cplugError.html/ [33m404[0m 0.155 ms - 160[0m
+[0mGET /?=PHPB8B5F2A0-3C92-11d3-A3A9-4C7B08C10000 [32m200[0m 0.179 ms - 12[0m
+[0mGET /.git/HEAD [33m404[0m 0.193 ms - 148[0m
+[0mHEAD / [32m200[0m 0.205 ms - 12[0m
+[0mGET /CSS/Miniweb.css [33m404[0m 0.150 ms - 154[0m
+[0mGET /menu.cgi [33m404[0m 0.218 ms - 147[0m
+[0mGET /pools/default/buckets [33m404[0m 0.115 ms - 160[0m
+[0mPOST /sdk [33m404[0m 0.318 ms - 143[0m
+[0mGET /Portal0000.htm [33m404[0m 0.119 ms - 153[0m
+[0mGET / [32m200[0m 0.142 ms - 12[0m
+[0mGET /pools [33m404[0m 0.170 ms - 144[0m
+[0mGET / [32m200[0m 0.161 ms - 12[0m
+[0mGET /index.aspx [33m404[0m 0.118 ms - 149[0m
+[0mGET /__Additional [33m404[0m 0.209 ms - 151[0m
+[0mGET /main.aspx [33m404[0m 0.277 ms - 148[0m
+[0mGET /favicon.ico [33m404[0m 0.124 ms - 150[0m
+[0mGET /main.html [33m404[0m 0.202 ms - 148[0m
+[0mGET /index.shtml [33m404[0m 0.204 ms - 150[0m
+[0mGET /localstart.aspx [33m404[0m 0.247 ms - 154[0m
+[0mGET /start.pl [33m404[0m 0.202 ms - 147[0m
+[0mGET /robots.txt [33m404[0m 0.205 ms - 149[0m
+[0mGET /indice.pl [33m404[0m 0.215 ms - 148[0m
+[0mGET /base.cfm [33m404[0m 0.211 ms - 147[0m
+[0mGET /start.asp [33m404[0m 0.227 ms - 148[0m
+[0mGET /indice.jsa [33m404[0m 0.199 ms - 149[0m
+[0mGET / [32m200[0m 0.203 ms - 12[0m
+[0mGET / [32m200[0m 0.199 ms - 12[0m
+[0mGET / [32m200[0m 0.187 ms - 12[0m
+[0mGET / [32m200[0m 0.571 ms - 12[0m
+[0mGET / [32m200[0m 0.685 ms - 12[0m
+[0mGET /favicon.ico [33m404[0m 0.404 ms - 150[0m
+[0mGET / [32m200[0m 0.568 ms - 12[0m
+[0mGET / [32m200[0m 0.671 ms - 12[0m

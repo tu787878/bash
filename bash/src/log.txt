@@ -1,0 +1,18 @@
+LOG FILE DATE: Mon 27 Mar 2023 04:21:30 PM UTC
+
+  -------------------UPDATING-------------------
+  Shop name: "Ha Veggie"
+  Host: home651354579.1and1-data.host
+  Username: u86737244
+  Password: ********
+  Path: /kunden/homepages/3/d651354579/htdocs/02_Shops/HaVeggie-Muenchen-Shop
+      | ***** Plugin "order-booking" has been deactivated.
+      | ***** Plugin "order-booking" has been removed.
+      | ***** File "order-bookingv5.0.3.zip" has been uploaded.
+      | ***** File "order-bookingv5.0.3.zip" has been unziped.
+      | ***** Plugin "order-booking" has been activated.
+      | ***** File "order-bookingv5.0.3.zip" has been deleted.
+      | ***** [SUCCESS] Shop ""Ha Veggie"" has been updated.
+-------------------------------------------------
+---------------DONE------------------
+UPDATED 1/1 shops (0 shops FAILED)

@@ -1,0 +1,156 @@
+#!/bin/bash
+start=$SECONDS
+
+dir=`dirname "$BASH_SOURCE"`
+INFO=$dir/src/info.csv
+INFO_TMP=$dir/info_tmp.csv
+INPUT_TMP=$dir/input_tmp.csv
+total_shop=0
+failed_shop=0
+success_shop=0
+
+[ ! -f $INFO ] && { echo "$INFO file not found"; exit 99; }
+
+echo -n "" > $INFO_TMP
+awk -F\; '{$1=$1} 1' OFS=, $INFO > $INFO_TMP
+
+while IFS="," read -r new_plugin old_plugin log_file input_file
+do
+    log_file=$dir/src/$log_file
+
+    echo "-------------------INFORMATION-------------------"
+    echo "New Plugin is: $new_plugin"
+    echo "Old Plugin is: $old_plugin"
+    echo "Log File: $log_file"
+    echo "Input File: $input_file"
+    echo "-------------------------------------------------"
+
+    now=$(date)
+    
+    echo "LOG FILE DATE: $now" > $log_file
+    echo "" >> $log_file
+    [ ! -f $dir/src/$input_file ] && { echo "$dir/src/$input_file file not found"; exit 99; }
+    echo -n "" > $INPUT_TMP
+    awk -F\; '{$1=$1} 1' OFS=, $dir/src/$input_file > $INPUT_TMP
+    cat $INPUT_TMP
+    while IFS="," read -r shop_name host username password path
+    do
+      echo "Record is : $shop_name"
+    done < $INPUT_TMP
+    
+    while IFS="," read -u 9 -r shop_name host username password path
+    do
+        the_world_is_flat=0
+        echo "  -------------------UPDATING-------------------" >> $log_file
+        echo "  Shop name: $shop_name" >> $log_file
+        echo "  Host: $host" >> $log_file
+        echo "  Username: $username" >> $log_file
+        echo "  Password: ********" >> $log_file
+        echo "  Path: $path" >> $log_file
+
+
+        echo "  -------------------UPDATING-------------------"
+        echo "  Shop name: $shop_name"
+        echo "  Host: $host"
+        echo "  Username: $username"
+        echo "  Password: ********"
+        echo "  Path: $path"
+
+        # delete old plugin
+        echo "      | ***** Deactivating plugin \"$old_plugin\" ..."
+        while [ $? -ne 0 ]
+         do wp --allow-root --ssh=$username@$host$path plugin deactivate $old_plugin > /dev/null
+         done
+        if [ $? -ne 0 ] 
+        then 
+            echo "      | ***** Cannot deactivate plugin \"$old_plugin\"." >> $log_file
+            echo "      | ***** Cannot deactivate plugin \"$old_plugin\"."
+        else 
+             echo "      | ***** Plugin \"$old_plugin\" has been deactivated." >> $log_file
+             echo "      | ***** Plugin \"$old_plugin\" has been deactivated."
+        fi
+
+        # delete old plugin
+        echo "      | ***** Deleting plugin \"$old_plugin\" ..."
+        wp --allow-root --ssh=$username@$host$path plugin delete $old_plugin > /dev/null
+        if [ $? -ne 0 ] 
+        then 
+            the_world_is_flat=1
+            echo "      | ***** [ERROR] Cannot remove plugin \"$old_plugin\"." >> $log_file
+            echo "      | ***** [ERROR] Cannot remove plugin \"$old_plugin\"."
+        else 
+             echo "      | ***** Plugin \"$old_plugin\" has been removed." >> $log_file
+             echo "      | ***** Plugin \"$old_plugin\" has been removed."
+        fi
+
+        #upload new plugin
+        echo "      | ***** Uploading file \"$new_plugin.zip\" ..."
+        scp -r $dir/src/$new_plugin $username@$host:$path/wp-content/plugins > /dev/null
+        if [ $? -ne 0 ] 
+        then 
+            the_world_is_flat=1
+            echo "      | ***** [ERROR] Cannot upload file \"$new_plugin\" to server." >> $log_file
+            echo "      | ***** [ERROR] Cannot upload file \"$new_plugin\" to server."
+        else 
+            echo "      | ***** File \"$new_plugin\" has been uploaded." >> $log_file
+            echo "      | ***** File \"$new_plugin\" has been uploaded."
+            ssh $username@$host unzip -qq -o $path/wp-content/plugins/$new_plugin -d $path/wp-content/plugins/ > /dev/null
+                if [ $? -ne 0 ] 
+                then 
+                        the_world_is_flat=1
+                        echo "      | ***** [ERROR] Cannot unzip file \"$new_plugin\" to server." >> $log_file
+                        echo "      | ***** [ERROR] Cannot unzip file \"$new_plugin\" to server."
+                else 
+                        echo "      | ***** File \"$new_plugin\" has been unziped." >> $log_file
+                        echo "      | ***** File \"$new_plugin\" has been unziped."
+                fi
+        fi
+
+        #activate new plugin
+        echo "      | ***** Activating plugin \"$old_plugin\" ..."
+        wp --allow-root --ssh=$username@$host$path plugin activate $old_plugin > /dev/null
+        if [ $? -ne 0 ] 
+        then 
+            the_world_is_flat=1
+            echo "      | ***** [ERROR] Cannot activate plugin \"$old_plugin\"." >> $log_file
+            echo "      | ***** [ERROR] Cannot activate plugin \"$old_plugin\"."
+        else 
+            echo "      | ***** Plugin \"$old_plugin\" has been activated." >> $log_file
+            echo "      | ***** Plugin \"$old_plugin\" has been activated."
+        fi
+
+        #delete zip file
+        ssh $username@$host rm $path/wp-content/plugins/$new_plugin > /dev/null
+        if [ $? -ne 0 ] 
+        then 
+                echo "      | ***** [ERROR] Cannot delete file \"$new_plugin\" on server." >> $log_file
+                echo "      | ***** [ERROR] Cannot delete file \"$new_plugin\" on server."
+        else 
+                echo "      | ***** File \"$new_plugin\" has been deleted." >> $log_file
+                echo "      | ***** File \"$new_plugin\" has been deleted."
+        fi
+
+        if [ $the_world_is_flat -eq 1 ] 
+        then 
+            let "failed_shop=failed_shop+1"
+            echo "      | ***** [FAILED] Cannot update shop \"$shop_name\". See above logs to fix errors (ERROR)!"
+            echo "      | ***** [FAILED] Cannot update shop \"$shop_name\". See above logs to fix errors! (ERROR)" >> $log_file
+        else 
+            let "success_shop=success_shop+1"
+            echo "      | ***** [SUCCESS] Shop \"$shop_name\" has been updated."
+            echo "      | ***** [SUCCESS] Shop \"$shop_name\" has been updated." >> $log_file
+        fi
+        let "total_shop=total_shop+1"
+        echo "-------------------------------------------------"
+        echo "-------------------------------------------------" >> $log_file
+        
+        done 9< <(tail -n +2 $INPUT_TMP)
+echo "---------------DONE------------------"
+echo "---------------DONE------------------" >> $log_file
+echo "UPDATED $success_shop/$total_shop shops ($failed_shop shops FAILED)"
+echo "UPDATED $success_shop/$total_shop shops ($failed_shop shops FAILED)" >> $log_file
+done < <(tail -n +2 $INFO_TMP)
+rm $INPUT_TMP > /dev/null
+rm $INFO_TMP > /dev/null
+end=$SECONDS
+echo "Duration time: $((end-start)) seconds."
