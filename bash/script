@@ -57,34 +57,34 @@ do
         echo "  Path: $path"
 
         # delete old plugin
-        echo "      | ***** Deactivating plugin \"$old_plugin\" ..."
-        while [ $? -ne 0 ]
-         do wp --allow-root --ssh=$username@$host$path plugin deactivate $old_plugin > /dev/null
-         done
-        if [ $? -ne 0 ] 
-        then 
-            echo "      | ***** Cannot deactivate plugin \"$old_plugin\"." >> $log_file
-            echo "      | ***** Cannot deactivate plugin \"$old_plugin\"."
-        else 
-             echo "      | ***** Plugin \"$old_plugin\" has been deactivated." >> $log_file
-             echo "      | ***** Plugin \"$old_plugin\" has been deactivated."
-        fi
+        #echo "      | ***** Deactivating plugin \"$old_plugin\" ..."
+        #while [ $? -ne 0 ]
+         #do wp --allow-root --ssh=$username@$host$path plugin deactivate $old_plugin > /dev/null
+         #done
+        #if [ $? -ne 0 ] 
+        #then 
+         #   echo "      | ***** Cannot deactivate plugin \"$old_plugin\"." >> $log_file
+         #  echo "      | ***** Cannot deactivate plugin \"$old_plugin\"."
+        #else 
+         #    echo "      | ***** Plugin \"$old_plugin\" has been deactivated." >> $log_file
+         #    echo "      | ***** Plugin \"$old_plugin\" has been deactivated."
+        #fi
 
         # delete old plugin
-        echo "      | ***** Deleting plugin \"$old_plugin\" ..."
-        wp --allow-root --ssh=$username@$host$path plugin delete $old_plugin > /dev/null
-        if [ $? -ne 0 ] 
-        then 
-            the_world_is_flat=1
-            echo "      | ***** [ERROR] Cannot remove plugin \"$old_plugin\"." >> $log_file
-            echo "      | ***** [ERROR] Cannot remove plugin \"$old_plugin\"."
-        else 
-             echo "      | ***** Plugin \"$old_plugin\" has been removed." >> $log_file
-             echo "      | ***** Plugin \"$old_plugin\" has been removed."
-        fi
+        #echo "      | ***** Deleting plugin \"$old_plugin\" ..."
+        #wp --allow-root --ssh=$username@$host$path plugin delete $old_plugin > /dev/null
+        #if [ $? -ne 0 ] 
+        #then 
+         #   the_world_is_flat=1
+         #   echo "      | ***** [ERROR] Cannot remove plugin \"$old_plugin\"." >> $log_file
+         #   echo "      | ***** [ERROR] Cannot remove plugin \"$old_plugin\"."
+        #else 
+         #    echo "      | ***** Plugin \"$old_plugin\" has been removed." >> $log_file
+         #    echo "      | ***** Plugin \"$old_plugin\" has been removed."
+        #fi
 
         #upload new plugin
-        echo "      | ***** Uploading file \"$new_plugin.zip\" ..."
+        echo "      | ***** Uploading file \"$new_plugin\" ..."
         scp -r $dir/src/$new_plugin $username@$host:$path/wp-content/plugins > /dev/null
         if [ $? -ne 0 ] 
         then 
@@ -94,7 +94,7 @@ do
         else 
             echo "      | ***** File \"$new_plugin\" has been uploaded." >> $log_file
             echo "      | ***** File \"$new_plugin\" has been uploaded."
-            ssh $username@$host unzip -qq -o $path/wp-content/plugins/$new_plugin -d $path/wp-content/plugins/ > /dev/null
+            ssh $username@$host unzip -qq -o $path/wp-content/plugins/$new_plugin -d $path/wp-content/plugins/ >> $log_file
                 if [ $? -ne 0 ] 
                 then 
                         the_world_is_flat=1
@@ -107,20 +107,20 @@ do
         fi
 
         #activate new plugin
-        echo "      | ***** Activating plugin \"$old_plugin\" ..."
-        wp --allow-root --ssh=$username@$host$path plugin activate $old_plugin > /dev/null
-        if [ $? -ne 0 ] 
-        then 
-            the_world_is_flat=1
-            echo "      | ***** [ERROR] Cannot activate plugin \"$old_plugin\"." >> $log_file
-            echo "      | ***** [ERROR] Cannot activate plugin \"$old_plugin\"."
-        else 
-            echo "      | ***** Plugin \"$old_plugin\" has been activated." >> $log_file
-            echo "      | ***** Plugin \"$old_plugin\" has been activated."
-        fi
+        #echo "      | ***** Activating plugin \"$old_plugin\" ..."
+        #wp --allow-root --ssh=$username@$host$path plugin activate $old_plugin > /dev/null
+        #if [ $? -ne 0 ] 
+        #then 
+        #    the_world_is_flat=1
+        #    echo "      | ***** [ERROR] Cannot activate plugin \"$old_plugin\"." >> $log_file
+        #    echo "      | ***** [ERROR] Cannot activate plugin \"$old_plugin\"."
+        #else 
+        #    echo "      | ***** Plugin \"$old_plugin\" has been activated." >> $log_file
+        #    echo "      | ***** Plugin \"$old_plugin\" has been activated."
+        #fi
 
-        #delete zip file
-        ssh $username@$host rm $path/wp-content/plugins/$new_plugin > /dev/null
+        #delete zip file>
+        ssh $username@$host rm $path/wp-content/plugins/$new_plugin >> $log_file
         if [ $? -ne 0 ] 
         then 
                 echo "      | ***** [ERROR] Cannot delete file \"$new_plugin\" on server." >> $log_file
